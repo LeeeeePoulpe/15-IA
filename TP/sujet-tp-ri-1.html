@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr"><head>
+<title>TP1 - Recherche d'Information</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="author" content="Christophe Brouard">
+<link rel="stylesheet" type="text/css" media="screen" href="styleSujetTP.css">
+</head>
+<body>
+<p>Université Grenoble Alpes - IUT2 - Département informatique<br>
+ Module R5.Real.15 - Algorithmes pour l'IA</p>
+
+<h2>TP Recherche d'Information N°1 - Développement d'un moteur de recherche </h2>
+
+<hr>	
+<h3>1. Implémentation de l'algorithme de création de l'index inversé</h3>
+<hr>	
+	<ul>
+		<li>Récupérez <tt>indexation.php</tt> et <tt>indexation0.php</tt> <a href="./" target="_blank">ici</a></li>
+		<li>Complétez <tt>indexation.php</tt> et <tt>indexation0.php</tt> pour obtenir le résultat ci-dessous</li>
+	</ul>
+	<img src="./documents.png"/><br/>
+	<img src="./resultats.png"/>
+	<div><strong>Indication</strong> : Pour construire le résultat de la requ&ecirc;te t1 ET t3, il faut utiliser la fonction <a href="https://www.php.net/manual/en/function.array-intersect-key.php">array_intersect_key</a></div>
+
+<br/><br/>	
+
+<hr>																									 																			  
+<h3>2. Application à l'indexation de dépêches</h3>
+Nous allons travailler sur un petit corpus constitué de 500 dépêches journalistiques récupérées à partir du flux rss du journal "Le Monde" en 2008.
+	<ul>
+		<li>Récupérez <tt>depeches.txt</tt> (version pré-traitée utilisée pour l'indexation) et <tt>depeches-base.txt</tt> (version brute utilisée pour l'affichage)  <a href="./" target="_blank">ici</a></li>
+		<li>Récupérez <tt>indexation1.php</tt> <a href="./" target="_blank">ici</a></li>
+		<li>Complétez <tt>indexation1.php</tt> pour obtenir le résultat ci-dessous </li>
+	</ul>
+	<img src="./resultats2.PNG"/>
+<div><strong>Indication</strong> : Pour construire le résultat de la requ&ecirc;te effet OU co2, il faut utiliser l'opérateur + permettant de concaténer des tableaux.</div>
+	
+<h3>3. Ajout d'une interface de recherche</h3>
+	<ul>
+		<li>Récupérez <tt>search.php</tt> <a href="./" target="_blank">ici</a></li>
+		<li>Complétez <tt>search.php</tt> pour obtenir, comme ci-dessous, un classement bas&eacute; sur la simple somme
+		de la pondération tf*idf des termes du document pr&eacute;sents dans la requête (pas de division par la norme du document car tous les documents ont des tailles relativement similaires)</li>
+		<li>Expliquez l'ordre des résultats pour la requête "effet co2"</li>
+		<img src="./resultats3.PNG"/>
+	</ul>
+	
+<h3>4. Compléments</h3>
+Nous avons développé en quelques lignes de PHP un petit moteur de recherche qui fonctionne.
+La reconstruction de l'index &agrave; chaque interrogation n'est bien sûr pas souhaitable.
+Afin d'éviter cette reconstruction inutile, il faudrait stocker l'index construit dans une base de données et interroger
+cette base au moment de la recherche. Réfléchissez au schéma de cette base (tables et structure des tables).
+	<br/><br/>
+</body></html>

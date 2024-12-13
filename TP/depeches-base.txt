@@ -1,0 +1,4062 @@
+n 001
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Des cellules souches ont été produites à partir de cellules adultes 
+sans provoquer de tumeur.
+
+n 002
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Un test de prédisposition au cancer de la prostate suscite une 
+polémique. Délivré par Internet, uniquement à des médecins
+selon l'entreprise, ce test est mis en vente au prix de 500 dollars (341
+euros).
+
+n 003
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Face aux dégâts du tabac, le fossé entre pays du Nord et du Sud 
+s'élargit Une étude annonce une hausse des décès liés au tabagisme en 
+Inde, une autre constate une baisse des accidents cardiaques en Italie 
+depuis l'interdiction de fumer dans les lieux publics. 
+
+n 004
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Le Pentagone va abattre un satellite-espion en perdition
+Le satellite, de 1,1 tonne environ, qui a décroché de son orbite
+voici plusieurs semaines, doit être détruit par un missile
+tactique tiré d'un bâtiment de la marine américaine. 
+
+n 005
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Plus d'éoliennes, pas moins de CO2.Pour encourager l'éolien, l'Etat 
+subventionne à tout va. Mais une étude récente montre que dans les 
+pays qui ont le plus misé sur le vent, les émissions de gaz à effet de 
+serre n'ont pas baissé. 
+
+n 006
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Les surfaces cultivées en OGM ont augmenté de 12 % en 2007
+Les superficies plantées en cultures transgéniques dans le monde
+ont atteint 114 millions d'hectares en 2007, soit une augmentation de 
+12 % par rapport à 2006.
+
+n 007
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Les seuils de pollution de l'air par les particules sont de plus en plus 
+fréquemment dépassés
+Les alertes se sont multipliées ces dernières semaines dans les
+villes françaises. Un plan de lutte contre cette pollution
+provoquée par les combustions est en cours d'élaboration.
+
+n 008
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Avec la montée des déremboursements, le marché de 
+l'automédication confirme son essor
+Les médicaments sans ordonnances désormais vendus en libre accès. 
+
+n 009
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Des progrès à venir dans les greffes d'organes humains
+En dépit des spectaculaires résultats des récentes
+transplantations partielles de fractions de membres et de visage, rien 
+ne permet d'espérer, à court terme, de substantielles
+avancées en matière de greffes d'organes. 
+
+n 010
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Une alerte précoce sur la situation des ressources en eau a été lancée
+Mardi 12 février, le ministre de l'écologie, Jean-Louis Borloo, a
+conclu une réunion du comité de suivi de la sécheresse en
+lançant une "vraie alerte". 
+
+n 011
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t L'Année internationale de la planète Terre s'est ouverte  devant 
+l'Unesco
+L'Année internationale de la planète Terre (AIPT), initiative
+conjointe de l'Union internationale des sciences géologiques (UISG) et
+de l'Unesco, a été lancée officiellement, mardi 12
+février à Paris, par Koïchiro Matsuura, directeur
+général de l'Unesco, devant plus de mille participants
+français et étrangers. 
+
+n 012
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t La forêt française se métamorphose sous l'effet du changement 
+climatique
+Dans la Sarthe, la Société forestière a commencé
+à introduire des essences plus résistantes aux canicules. Le
+chêne pédonculé est désormais menacé. 
+
+n 013
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t L'Europe cherche à recruter des spationautes
+Depuis 1998, "l'embauche" des spationautes ne se fait plus, en Europe, 
+au
+niveau national. Du centre spatial de Guyane, où il était en
+visite, Nicolas Sarkozy a plaidé pour un "programme mondial"
+d'exploration de Mars. 
+
+n 014
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Réglementation et produits génériques  ont pesé sur les résultats des 
+laboratoires
+Les performances enregistrées par le secteur en 2007 ont souffert de
+l'exigence croissante de sécurité portée par les agences sanitaires. 
+
+n 015
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Cancer de l'utérus : l'âge de la vaccination remis en cause
+L'Académie nationale de médecine recommande d'abaisser à
+11-12 ans le programme de prévention. 
+
+n 016
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Les manchots royaux victimes du réchauffement des eaux australes
+Les plus importantes colonies de manchots royaux sont implantées 
+dans
+les îles Crozet, archipel français du sud de l'océan Indien
+où se trouvent les deux tiers des quelque deux millions d'individus que
+compte l'espèce. 
+
+n 017
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Le génome humain porte les traces d'une sélection naturelle récente
+Certaines variations génétiques entre les populations d'Afrique,
+d'Asie ou d'Europe sont le fruit des pressions de l'environnement qui se 
+sont exercées depuis moins de 60 000 ans. 
+
+n 018
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Australie : le diable de Tasmanie contaminé par des produits 
+chimiques toxiques
+Il a beau vivre dans une île tranquille du bout du monde, le diable de
+Tasmanie, ce petit marsupial carnivore du sud de l'Australie, n'échappe
+pas aux pollutions chimiques. 
+
+n 019
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Des études démontrent les dangers des nanoparticules pour la santé
+On en trouve déjà de plus de 1 300 types différents
+(poudres, fils, tubes...) dans plusieurs centaines de produits vendus 
+dans le commerce, le plus souvent sans étiquetage particulier. 
+
+n 020
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Une charte pour moraliser le marché de la compensation des 
+émissions de CO2
+L'Ademe publie un code de bonnes pratiques pour apporter plus de 
+transparence à un secteur en pleine croissance, où se concurrencent
+entreprises et associations. 
+
+n 021
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Le temps des "mères porteuses"
+La psychanalyste Geneviève Delaisi de Parseval, spécialiste de
+l'assistance médicale à la procréation, estime
+indispensable d'autoriser la pratique de la gestation pour autrui (GPA) 
+en France. 
+
+n 022
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t La navette Atlantis s'est amarrée à l'ISS
+La navette américaine Atlantis, avec à son bord sept astronautes,
+s'est amarrée samedi à la Station spatiale internationale (ISS),
+selon la NASA. 
+
+n 023
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t Le Sénat a modifié l'esprit du texte de loi sur les OGM
+Le jour où la clause de sauvegarde sur le maïs transgénique
+MON 810 a été officiellement notifiée par la France
+à Bruxelles, vendredi 8 février, le Sénat a voté,
+en première lecture, la loi définissant les conditions de
+coexistence sur le territoire entre cultures OGM, conventionnelles et
+biologiques. 
+
+n 024
+d 140208
+c ENVIRONNEMENT-SCIENCES
+t OGM : les écologistes dénoncent "l'enterrement du Grenelle"
+Le Sénat a adopté vendredi le projet de loi sur les organismes
+génétiquement modifiés, dans une version remaniée
+et contestée par les Verts et Greenpeace. 
+
+n 025
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La vie inventée de toutes pièces
+La biologie synthétique, en plein essor, a pour objet de fabriquer des
+cellules spécifiquement vouées au service de l'homme. Mainmise
+sur le vivant ou nouvelle alliance avec la nature ? 
+
+n 026
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Habiter au-dessus de Manhattan inondé
+Le très sérieux New York City Office of Emergency Management a
+lancé un concours d'idées pour imaginer des solutions au cas
+où New York serait frappée par un ouragan de catégorie 3. 
+
+n 027
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Nicolas Sarkozy au Salon de l'agriculture : "la PAC doit être rénovée"
+Le président de la République a déclaré samedi
+qu'il souhaitait "engager dès 2009 une véritable refondation des
+modalités de mise en oeuvre de la Politique agricole commune dans 
+notre pays". 
+
+n 028
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Des lignées de souris fournissent un modèle animal pour l'étude du 
+chikungunya
+Le virus du chikungunya (CHIKV) a été identifié pour la
+première fois en Tanzanie en 1953. 
+
+n 029
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Les planètes soeurs de la Terre seraient légion dans la Voie lactée
+Jusqu'à présent, l'écrasante majorité des quelque
+270 exoplanètes découvertes sont des géantes gazeuses
+comme Jupiter ou Saturne. 
+
+n 030
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La dérive express de la goélette "Tara" illustre la fragilité
+ de la banquise arctique
+Prisonnier des glaces pendant seize mois, le voilier a été
+transporté par le courant transpolaire à une allure qui a surpris
+les scientifiques. 
+
+n 031
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Salon de l'agriculture : le bonheur est presque dans le pré
+Les cours s'envolent, les quotas laitiers sont moins contraignants. Les
+agriculteurs finiront-ils par avoir le moral ? Reportage dans le
+Maine-et-Loire, à la veille du Salon de l'agriculture. 
+
+n 032
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Le marché français des médicaments génériques a augmenté de 20 % en 
+2007
+Le marché devrait encore croître au cours des quatres prochaines
+années. 
+
+n 033
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Le Salon de l'agriculture, de l'ère Chirac à l'ère Sarkozy
+La grand-messe agricole ouvre ses portes samedi et sera cette fois 
+encore
+inaugurée par le président de la République. Mais la
+poursuite de la tradition s'arrête là. Après un bref
+passage à travers les stands, Nicolas Sarkozy prononcera un discours
+officiel dans le grand ring, où a lieu le concours agricole des bovins. 
+
+n 034
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t En France, le nombre de cancers augmente, mais le risque de décès 
+baisse
+En 25 ans, si la fréquence du cancer a quasiment doublé chez
+l'homme et fortement augmenté chez la femme, le risque de
+mortalité a diminué de 24 %. 
+
+n 035
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Les fresques préhispaniques du Pérou sous haute protection
+Des Français concourent à la sauvegarde des peintures murales des
+peuples ayant précédé les Incas, naguère
+livrées aux intempéries. 
+
+n 036
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Les Etats-Unis abattent un de leurs satellites espions à la dérive
+Démonstration de force ou bien souci de protection des populations
+civiles ? Jeudi 14 février, le Pentagone avait donné son feu vert
+à la destruction d'un satellite dont il avait perdu le contrôle et
+qui menaçait de s'écraser sur Terre. Mercredi soir 20
+février, un tir de missile a réussi à le percuter en plein vol. 
+
+n 037
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Des chercheurs français ont élaboré un élastique qui cicatrise seul
+Une matière élastique qui se répare d'elle-même a
+été mise en point par des chercheurs de l'Ecole supérieure
+de physique et chimie industrielle de la ville de Paris. Ce matériau
+ouvre la voie à la fabrication de produits "autocicatrisants", jouets,
+adhésifs, joints d'étanchéité, revêtements de
+protection de surface. 
+
+n 038
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t André Brahic, pour l'amour du ciel
+L'astronome, célèbre pour avoir découvert les anneaux de
+Neptune, entretient un rapport spécial avec le temps. Une sorte de
+Professeur Nimbus qui aurait le génie de la communication. 
+
+n 039
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Les centres de dépistage anonyme et gratuit en pointe de la lutte 
+antisida
+La proportion de tests positifs est plus élevée que pour les
+autres cadres de dépistage en France. 
+
+n 040
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La navette Atlantis de retour sur Terre
+La navette américaine et ses sept membres d'équipage ont atterri,
+mercredi, en Floride. 
+
+n 041
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La France se prépare aux conséquences d'un accident nucléaire majeur 
+sur son sol
+Les autorités veulent établir une "doctrine" pour faire face
+à une catastrophe nucléaire de grande ampleur. 
+
+n 042
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t L'île de Sumatra frappée par un violent séisme
+Un important tremblement de terre a secoué la partie ouest de
+l'île indonésienne de Sumatra, mercredi 20 février. Une
+alerte au tsunami a été lancée dans la région
+proche de l'épicentre du séisme. 
+
+n 043
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Questions autour de la destruction annoncée d'un satellite espion 
+américain
+Les explications américaines selon lesquelles ce satellite espion
+présente un danger pour les vies humaines, puisqu'il risque de ne pas 
+se consumer entièrement en rentrant dans l'atmosphère, apparaissent
+crédibles. 
+
+n 044
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Pour les croyants américains, le nanomonde est peu "moral"
+Seuls 29,5 % d'un échantillon représentatif de la population
+américaine jugent ainsi "moralement acceptables" les technologies
+développées à l'échelle du milliardième de mètre (nanomètre). 
+
+n 045
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La Caisse des dépôts et consignations veut compenser les atteintes à la 
+biodiversité
+Un premier accord a été signé avec une société d'autoroutes. 
+
+n 046
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Un Livre blanc défend le monopole des pharmacies d'officine
+Une réponse au rapport Attali. 
+
+n 047
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Le nombre de cancers du sein est en diminution en France depuis 2005
+Pour l'Académie de médecine, cette baisse serait liée
+à désaffection vis-à-vis des traitements hormonaux
+substitutifs de la ménopause. 
+
+n 048
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t Le mystère de la disparition des abeilles reste entier
+L'Afssa a publié, vendredi 15 février, les résultats d'une
+étude menée pendant trois ans sur 120 colonies d'abeilles,
+réparties dans cinq départements (Eure, Gard, Gers, Indre et
+Yonne). 
+
+n 049
+d 240208
+c ENVIRONNEMENT-SCIENCES
+t La toxicologie prépare sa "révolution cellulaire"
+En testant la nocivité des composés chimiques sur des cellules
+humaines in vitro, et non plus sur des animaux, la toxicogénomique
+devrait permettre à la fois d'augmenter la rapidité et de
+diminuer le coût des études.
+
+n 050
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Amazonie brésilienne : la déforestation s'aggrave
+En baisse depuis juillet 2004, les destructions d'arbres par abattage ou
+brûlis ont repris depuis août 2007, en dépit des mesures
+adoptées. Le Brésil est écartelé entre les
+impératifs de la croissance et la protection du "poumon de la
+planète". 
+
+n 051
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t La perspective d'une cigarette moins toxique suscite le scepticisme des 
+antitabac
+Des chercheurs américains affirment avoir découvert les bases
+moléculaires du caractère cancérogène
+provoqué par la fumée du tabac. 
+
+n 052
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Bilan préoccupant pour les espèces protégées en France
+Les deux tiers des espèces végétales ou animales et des
+habitats étudiées dans le cadre d'un inventaire national sont
+classés en état "défavorable". 
+
+n 053
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Les formes résistantes de tuberculose se répandent
+Le rapport de l''Organisation mondiale de la santé (OMS), rendu public
+mardi 26 février, s'appuie sur les données concernant plus de 90
+000 malades, collectées entre 2002 et 2006 dans 82 pays. 
+
+n 054
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t A Orléans, un conservatoire pour améliorer la connaissance et garder la 
+mémoire des sols
+La "pédothèque" de l'Institut national de recherche agronomique
+accueillera, d'ici à la fin de l'année, 2 200 échantillons
+venant de tout le pays. 
+
+n 055
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Les laboratoires Ipsen et Servier  se sont adaptés au durcissement 
+tarifaire
+Les "poids moyens" résistent mieux que les grands groupes. 
+
+n 056
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Une étude remet en question l'efficacité des antidépresseurs
+Une équipe de scientifiques anglo-saxons a rassemblé tous les
+essais existants sur quatre médicaments. Elle conclut que leurs effets
+sont comparables à ceux d'un placebo, sauf en cas de dépression
+sévère. 
+
+n 057
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Toumaï, 7 millions d'années, est le "doyen de l'humanité"
+Il était probablement très proche de la divergence
+chimpanzés-hominidés, qui recule ainsi à au moins 8
+millions d'années. 
+
+n 058
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t "Chirac is back" au Salon de l'agriculture
+L'ancien président de la République s'est rendu au Salon de
+l'agriculture mardi.
+
+n 059
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t La Grande-Bretagne secouée par un séisme de magnitude 5,3 sur 
+l'échelle de Richter
+Selon l'Institut britannique de géophysique, ce serait la secousse la
+plus importante depuis 1984. Les dégâts sont légers. 
+
+n 060
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Claude et Lydia Bourguignon, damnés de la terre
+Les deux chercheurs, qui travaillent en francs-tireurs, voient dans
+l'épuisement des sols la fin de la civilisation. Leurs meilleurs
+alliés sont les micro-organismes et les vers de terre. 
+
+n 061
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Par leur mémoire de l'eau, les cheveux permettent de reconstituer les 
+déplacements
+Déjà utilisée dans la recherche de substances illicites ou
+dopantes, cette mémoire capillaire pourra intéresser - entre
+autres - la police. 
+
+n 062
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Les Etats-Unis se disent prêts à un accord "contraignant" de réduction 
+des émissions
+Le message, également délivré à Berlin par les deux
+collaborateurs du président Bush, s'inscrit dans les suites de l'accord
+trouvé par la communauté internationale à Bali
+(Indonésie), en décembre 2007. 
+
+n 063
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Après avoir investi le ciel, les drones se jettent à l'eau
+Objets de nombreux programmes de recherche, militaires ou civils, les 
+engins sans pilote partent à la conquête des milieux sous-marins. 
+
+n 064
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Les antidépresseurs comme le Prozac sont presque inefficaces, selon 
+une étude britannique
+Les antidépresseurs de dernière génération comme le
+Prozac et le Seroxat n'ont pas plus d'effet que des placebos sur la 
+plupart des personnes souffrant de dépression, selon une étude de
+l'université anglaise de Hull, dans le Yorkshire, publiée mardi,
+dans la revue spécialisée "PLOS-Medicine". 
+
+n 065
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t L'Afrique du Sud lève le moratoire sur l'abattage des éléphants
+Devenus très nombreux, ces animaux font peser des menaces
+sérieuses sur "la viabilité des autres espèces, les
+conditions de vie et la sécurité des personnes qui habitent" leur
+territoire, selon le ministère de l'environnement. 
+
+n 066
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Les musées face aux demandes de restitution de restes humains
+Un symposium international organisé à Paris, au Musée du
+quai Branly, a mis en évidence la difficulté de concilier les
+exigences des représentants des peuples dits "premiers" et celles du
+monde scientifique. 
+
+n 067
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Gaz à effet de serre : les Etats-Unis prêts à un "accord contraignant"
+Les Etats-Unis sont prêts à fixer un objectif de réduction
+de leurs émissions de gaz à effet de serre, a assuré lundi
+à Paris, Daniel Price, conseiller du président Bush, si "toutes
+les grandes économies" font de même. 
+
+n 068
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t L'interdiction de fumer dans les lieux publics a entraîné une diminution 
+du nombre d'infarctus
+Transmises vendredi 22 février au ministère de la santé,
+les dernières données de l'indicateur mensuel du tabagisme font
+apparaître une baisse de l'ordre de 15 % de l'incidence des infarctus du
+myocarde et des accidents vasculaires cérébraux. 
+
+n 069
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Résurgence de la grippe aviaire en Chine et au Bangladesh
+Alors que la Chine enregistre son quatrième décès
+imputé à la grippe avaire depuis le début de
+l'année, un nouveau foyer est déclaré au Bangladesh,
+déjà aux trois quarts affecté par le virus H5N1. 
+
+n 070
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t La vie inventée de toutes pièces
+La biologie synthétique, en plein essor, a pour objet de fabriquer des
+cellules spécifiquement vouées au service de l'homme. Mainmise
+sur le vivant ou nouvelle alliance avec la nature ? 
+
+n 071
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Habiter au-dessus de Manhattan inondé
+Le très sérieux New York City Office of Emergency Management a
+lancé un concours d'idées pour imaginer des solutions au cas
+où New York serait frappée par un ouragan de catégorie 3. 
+
+n 072
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Nicolas Sarkozy au Salon de l'agriculture : "la PAC doit être rénovée"
+Le président de la République a déclaré samedi
+qu'il souhaitait "engager dès 2009 une véritable refondation des
+modalités de mise en oeuvre de la Politique agricole commune dans 
+notre
+pays". 
+
+n 073
+d 010308
+c ENVIRONNEMENT-SCIENCES
+t Des lignées de souris fournissent un modèle animal pour l'étude du 
+chikungunya
+Le virus du chikungunya (CHIKV) a été identifié pour la
+première fois en Tanzanie en 1953.
+
+n 074
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Cancer : davantage de cas mais plus d'espérance de vie
+Recherche, prévention, dépistage : les cancers font l'objet d'une
+attention soutenue car la démographie, le vieillissement et les
+conditions de vie en augmentent le nombre. Mais l'espoir s'accroit. 
+
+n 075
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Le virus du chikungunya peut se transmettre de la mère à l'enfant
+Cette transmission "conduit alors une fois sur deux à une infection
+néonatale sévère". 
+
+n 076
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Victime de la sécheresse, Barcelone envisage de faire venir de l'eau par 
+bateau de Marseille
+La livraison quotidienne de 25 000 m3 serait exécutée par des
+navires-citernes qui viendraient accoster au poste 144 du Port 
+autonome de Marseille, spécialement équipé pour ce trafic. 
+
+n 077
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Dans le Nevada, polémique autour du futur site de stockage des 
+déchets nucléaires américains
+Objet d'une vive controverse entre la population locale et les 
+producteurs
+d'énergie, le site de Yucca Mountain, pour lequel 11 milliards de
+dollars ont déjà été dépensés, est au
+point mort. 
+
+n 078
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Pollution : drapeau orange sur les rivières françaises
+La qualité des eaux s'est beaucoup améliorée grâce
+au traitement des rejets industriels et des matières organiques. Mais la
+moitié des cours d'eau seraient dégradés en raison des
+pollutions diffuses ou d'origine agricole et d'accidents comme celui de
+l'estuaire de la Loire. 
+
+n 079
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t aïs OGM : le Conseil d'Etat rejette un recours de producteurs
+L'institution devra encore se prononcer sur le "fond" du dossier, à une
+date qui reste à fixer. Les associations et le gouvernement se
+réjouissent de la décision du Conseil d'Etat. 
+
+n 080
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Cancer colorectal : vers un nouveau test
+L'Hemoccult II devrait être abandonné. 
+
+n 081
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Voyage dans la poubelle du Pacifique
+Depuis dix ans, une équipe américaine traque le plastique
+échoué dans l'océan. Bidons, stylos ou brosses à
+dents, les objets se dégradent pour former plus de 300 000 fragments 
+par km2. 
+
+n 082
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Jean-Louis Borloo juge "grave" la pollution au fuel dans  l'estuaire de la 
+Loire
+Au moins 400 tonnes de fuel lourd se sont déversées, dimanche 16
+mars, après qu'une fuite de tuyauterie est survenue lors du chargement
+d'un pétrolier à quai à la raffinerie Total de Donges,
+face à Paimboeuf. 
+
+n 083
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Un fac-similé du "Lascaux de la sculpture" va être présenté au public
+Des figures animalières et humaines vieilles de 15 000 ans dans la
+Vienne. 
+
+n 084
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Le réchauffement climatique bouleversera la répartition des maladies en 
+Amérique du Nord
+Une équipe canadienne prévoit une extension des zones où
+sévissent des maladies infectieuses transmises par les insectes, l'eau
+ou l'alimentation. 
+
+n 085
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Total présente ses excuses après le déversement de 400 tonnes de fioul 
+en Loire-Atlantique
+Une fuite dans une raffinerie a entraîné l'écoulement du
+fioul qualifié de "lourd" et "toxique" par la préfecture. Total
+s'est excusé et a déclaré qu'il prendra "en charge les
+coûts de nettoyage liés à cette pollution" qualifiée
+de grave par Jean-Louis Borloo. 
+
+n 086
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Les fonds manquent dans l'UE pour lancer les projets de capture du gaz 
+carbonique
+Cette technique permettrait d'éviter que le CO2 ne se retrouve dans
+l'atmosphère et accroisse l'effet de serre. 
+
+n 087
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t La Guyane ne parvient pas à faire face au virus du sida
+Avec le taux de contamination par le VIH le plus élevé de France,
+le département connaît une situation similaire à certains
+pays d'Afrique. 
+
+n 088
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Les barrages "masquent" l'élévation du niveau des mers
+Ces grandes retenues auraient contribué à "masquer" 30 mm de
+montée des mers depuis le début des années 1960. 
+
+n 089
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Un transfert de gène entre bactéries filmé en temps réel
+Publié dans Science du 14 mars, l'article d'Ana Babic, Miroslav Radman
+et leurs collaborateurs décrit la manière dont l'ADN de la
+bactérie donneuse est transmis à la receveuse par
+l'intermédiaire d'un appendice en forme de tube, désigné
+sous le nom de F pilus. 
+
+n 090
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Au Japon, la lutte contre l'effet de serre se heurte aux résistances des 
+industriels
+Affichant d'ambitieux objectifs de réduction des émissions de gaz
+carbonique pour 2050, Tokyo a du mal à atteindre ceux fixés pour
+2012. 
+
+n 091
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Relaxe requise pour le chasseur qui a tué l'ourse Cannelle
+René Marquèze, 65 ans, est jugé pour avoir abattu cette
+ourse, considérée comme la dernière de souche
+pyrénéenne. Le jugement a été mis en
+délibéré au 21 avril par le tribunal correctionnel de Pau. 
+
+n 092
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Face au péril écologique, Pékin crée un ministère de l'environnement
+L'agence chinoise de protection de l'environnement voit son statut
+rehaussé au rang de ministère de plein exercice. Ses actions se
+heurtaient jusqu'alors à une insuffisance de moyens. 
+
+n 093
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Poursuivi pour avoir accusé les producteurs de sel de désinformation, 
+un chercheur de l'Inserm a été relaxé
+Pierre Meneton était poursuivi pour "diffamation" pour avoir
+déclaré dans une interview que "le lobby des producteurs de sel
+et du secteur agroalimentaire était très puissant" et
+"désinformait les professionnels de la santé et les médias". 
+
+n 094
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Chiots clonés sur commande
+Une entreprise de biotechnologie coréenne, RNL Bio, propose aux
+propriétaires de chiens de faire cloner leur animal, 
+pour environ 100 000 euros. 
+
+n 095
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Des chercheurs français ouvrent un blog sur le climat
+Animé par un ancien chercheur du CNRS, le site se veut un lieu de
+débat et d'explications pour le grand public. 
+
+n 096
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Dans le Queensland australien, on achève mal les chevaux sauvages
+Un millier de chevaux ont été tués dans le parc national
+de Carnarvon, et 10 000 autres seraient menacés ces prochaines
+années, selon des associations de défense des animaux. 
+
+n 097
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t A Limeil-Brévannes, le sous-sol pollué du futur éco-quartier au coeur 
+de l'élection municipale
+Le maire aurait dissimulé des expertises. 
+
+n 098
+d 200308
+c ENVIRONNEMENT-SCIENCES
+t Les cimentiers travaillent à la mise au point d'un "béton vert"
+Le ciment concourt à environ 2 % des émissions mondiales de CO2.
+La recherche vise à atténuer l'impact de ce matériau, dont
+l'industrie du bâtiment est toujours plus gourmande.
+
+n 099
+d 210308
+c ENVIRONNEMENT-SCIENCES
+t Le cargo "Artemis" quitte enfin les Sables-d'Olonne
+Echoué depuis dix jours sur la plage des Sables-d'Olonne, le cargo
+néerlandais a été remis à flot jeudi. 
+
+n 100
+d 210308
+c ENVIRONNEMENT-SCIENCES
+t Qui sera l'"imbécile de l'énergie fossile" 2008 ?
+Cela signifiera qu'il est considéré comme un des principaux
+pollueurs mondiaux, peu scrupuleux dans le recours massif aux énergies
+émettant du CO2.
+
+n 101
+d 140208
+c CULTURE
+t L'art lyrique s'invite sur Arte et Mezzo pour "Tous à l'Opéra"
+Point d'orgue de la deuxième édition de l'opération portes
+ouvertes, la retransmission sur Arte d'"Orphée et Eurydice". 
+
+n 102
+d 140208
+c CULTURE
+t Danse : les défis du Japonais Saburo Teshigawara
+Le chorégraphe est au Théâtre de Chaillot. 
+
+n 103
+d 140208
+c CULTURE
+t Galeries : les villes de Desgrandchamps
+Le peintre retrouve un style clair et net pour enregistrer la disparition 
+de la nature. 
+
+n 104
+d 140208
+c CULTURE
+t Concert : le show réussi de Christophe Willem
+Victorieux lors de l'édition 2006 de "La nouvelle star" sur la
+chaîne M6, il a sorti un album en avril 2007 qui devrait atteindre les
+600 000 ventes. 
+
+n 105
+d 140208
+c CULTURE
+t Concert : les deux visages de Neil Young
+Le musicien canadien en tournée s'arrête à Paris, au Grand Rex. 
+
+n 106
+d 140208
+c CULTURE
+t Exposition : Gimpel, aventurier de l'image
+Au Musée d'Orsay, redécouverte d'un pionnier de la photographie. 
+
+n 107
+d 140208
+c CULTURE
+t Berlin aura son musée de cire Madame Tussaud
+Huitième dans le monde, troisième en Europe. 
+
+n 108
+d 140208
+c CULTURE
+t Discorde en Corée pour une porte brûlée
+L'auteur de l'incendie qui a détruit la Sungnyemun, plus ancienne
+construction de bois de Séoul, mieux connue sous le nom de 
+Namdaemun, la porte du Sud, a été arrêté le 12 février. 
+
+n 109
+d 140208
+c CULTURE
+t Musique : la Commission européenne veut étendre la durée de la 
+protection des interprétations
+Charlie McCreevy, le commissaire en charge du marché intérieur, a
+fait part, jeudi 14 février, de son intention de porter de 50 à
+95 ans la durée des droits protégeant les interprétations
+phonographiques. Ce projet s'aligne sur le régime en vigueur aux
+Etats-Unis depuis 1998. 
+
+n 110
+d 140208
+c CULTURE
+t Exposition : quand la danse américaine partait en guerre contre les 
+injustices
+Le CND de Pantin retrace l'histoire agitée du New Dance Group. 
+
+n 111
+d 140208
+c CULTURE
+t Roberto Alagna : "On a fait de l'opéra une arène de cirque"
+Le ténor parraine la deuxième journée portes ouvertes Tous
+à l'opéra !, samedi 16 février 
+
+n 112
+d 140208
+c CULTURE
+t Cet "opéra" que le Châtelet ne verra pas
+Le théâtre parisien a annulé la création
+française d'une oeuvre au casting prestigieux. 
+
+n 113
+d 140208
+c CULTURE
+t Anne Frank chante et danse à Madrid
+Tirer une comédie musicale du "Journal" d'Anne Frank peut sembler une
+gageure. 
+
+n 114
+d 140208
+c CULTURE
+t Comment "La Fuite en Egypte" de Poussin n'a pas fui la France
+Une importante opération de mécénat a été
+organisée pour réunir 17 millions d'euros. 
+
+n 115
+d 140208
+c CULTURE
+t Henri Salvador est mort
+Chanteur à la voix de miel, guitariste de jazz, compositeur hors pair,
+l'inoubliable interprète de "Une chanson douce" et "Syracuse" fut aussi
+un rieur impénitent, amuseur public et animateur de
+télévision populaire. En 2000, l'album "Chambre avec vue" avait
+relancé sa carrière. 
+
+n 116
+d 140208
+c CULTURE
+t Exposition : M/M, les DJ de l'image graphique
+Le duo expose au Centre Pompidou et à la galerie Air de Paris. 
+
+n 117
+d 140208
+c CULTURE
+t Festival : blues, hip-hop et folk, le mélange détonnant de Buck 65
+Les Nuits de l'Alligator est un festival itinérant
+célébrant les descendances multiples et inattendues du spleen du
+delta. 
+
+n 118
+d 140208
+c CULTURE
+t L'Arc de triomphe réinvente son musée
+Le but : raconter l'histoire du monument. 
+
+n 119
+d 140208
+c CULTURE
+t La pièce "La Mort de Margaret Thatcher" provoque une polémique à 
+Londres
+Le jeune auteur Tom Green imagine l'impact créé par la
+disparition de la Dame de fer. 
+
+n 120
+d 140208
+c CULTURE
+t L'humour, l'autre arme du rap
+De Michaël Youn à Kamini, une génération de chanteurs
+fait passer la culture hip-hop de la rébellion à la rigolade. 
+
+n 121
+d 140208
+c CULTURE
+t Pierre Huber, gloire et déboires du marché de l'art
+Le galeriste genevois, réputé et controversé, a
+été exclu des foires de Bâle et de Shanghaï. 
+
+n 122
+d 140208
+c CULTURE
+t Nicolas Sarkozy hérite de l'affaire Lévy
+Exceptionnellement, c'est le président de la République, qui
+devrait assister au dîner du Conseil représentatif des
+institutions juives de France (CRIF), mercredi 13 février, à la
+place du premier ministre habituellement invité. 
+
+n 123
+d 140208
+c CULTURE
+t Jacques Rigaud : "Un désengagement de l'Etat dans la culture 
+pénaliserait le mécénat"
+Jacques Rigaud, 76 ans, a présidé durant vingt-huit ans
+l'Admical, association chargée de promouvoir le mécénat,
+notamment culturel, auprès des entreprises. 
+
+n 124
+d 240208
+c CULTURE
+t La rue, jardin de Keith Haring
+Le Musée d'art contemporain de Lyon célèbre l'artiste
+new-yorkais, pionnier du produit dérivé. 
+
+n 125
+d 240208
+c CULTURE
+t Un mémorial de l'internement inauguré à Compiègne
+Des prisonniers politiques, des juifs puis des Alliés furent
+détenus au camp de Royallieu 
+
+n 126
+d 240208
+c CULTURE
+t Adieu sans pompe à  Robbe-Grillet
+Au crématorium de Caen (Calvados), seuls quelques amis étaient
+venus rendre un dernier hommage, vendredi 22 février, à
+l'écrivain et cinéaste Alain Robbe-Grillet, mort le 18
+février à l'âge de 85 ans. 
+
+n 127
+d 240208
+c CULTURE
+t Les Césars se démarquent du box-office  en récompensant "La Graine 
+et le mulet"
+Le film d'Abdellatif Kechiche a remporté les récompenses qui
+comptent : meilleur film, meilleur réalisateur, meilleur scénario
+original, auxquelles s'ajoute le César de l'espoir féminin qui
+est allé à Hafsia Herzi. 
+
+n 128
+d 240208
+c CULTURE
+t Avant les César, la grogne du cinéma
+200 salles indépendantes suspendront les projections pour
+dénoncer la chute de crédits. 
+
+n 129
+d 240208
+c CULTURE
+t Galeries : les tableaux fous de Garouste
+Une nouvelle exposition à la galerie Templon. 
+
+n 130
+d 240208
+c CULTURE
+t Sébastien Tellier offre au sexe un disque à la fois "classe et bling-
+bling"
+L'excentrique dandy barbu publie l'album "Sexuality" et donne deux 
+concerts au Centre Pompidou, à Paris. 
+
+n 131
+d 240208
+c CULTURE
+t Humour : le non-sens amusé de Ged Marlon
+Au Petit-Montparnasse, un "seul en scène" cocasse, frimeur et swing
+tendance dada. 
+
+n 132
+d 240208
+c CULTURE
+t Jean-François Sivadier : "Lear est un appel à l'inconscient"
+Entretien avec Jean-François Sivadier, dont la mise en scène de
+la pièce de Shakespeare tourne en France. 
+
+n 133
+d 240208
+c CULTURE
+t Aux Invalides, un "monument audiovisuel" est dédié à De Gaulle
+Nicolas Sarkozy inaugure cet Historial multimédia vendredi 22 février. 
+
+n 134
+d 240208
+c CULTURE
+t Des dessinateurs de BD délaissent la planche pour la Toile
+Nombre d'artistes mettent leurs dessins en ligne, touchant ainsi un 
+nombre croissant de lecteurs et d'éditeurs. 
+
+n 135
+d 240208
+c CULTURE
+t Opéra : "Thésée", un Lully "post-baroque" au Théâtre des Champs-
+Elysées
+La mise en scène de Jean-Louis Martinoty et la direction d'Emmanuelle
+Haïm offrent une belle version de cette "tragédie en musique". 
+
+n 136
+d 240208
+c CULTURE
+t Exposition : Vlaminck fauve, sa bonne période
+En une centaine d'oeuvres, le Musée du Luxembourg, à Paris,
+consacre une rétrospective ciblée au peintre. 
+
+n 137
+d 240208
+c CULTURE
+t Le plus vieux des faux Monet
+La toile figurera dans l'exposition, comme prévu, mais "avec une claire
+mention" de sa véritable nature. 
+
+n 138
+d 240208
+c CULTURE
+t Les festivals rock de l'été lancent une collection d'hiver
+Saint-Malo, Belfort et Carhaix inventent une programmation "hors 
+saison" avec des formules nouvelles. 
+
+n 139
+d 240208
+c CULTURE
+t Le piratage lamine les ventes de DVD
+Trois années de baisse en France, pays le plus touché en Europe. 
+
+n 140
+d 240208
+c CULTURE
+t Penck au Musée d'art moderne de la Ville de Paris
+Le Musée d'art moderne de la Ville de Paris présente, jusqu'au 12
+mai, une rétrospective de l'oeuvre de A. R. Penck (né en 1939
+à Dresde). Une peinture expressive et haute en couleurs où
+s'entrecroisent personnages abstraits, signes et pictogrammes. 
+
+n 141
+d 240208
+c CULTURE
+t A la poursuite de Pintoricchio
+La Galerie nationale de l'Ombrie, réhabilite Bernardino di Betto, dit
+Pintoricchio, "le petit peintre", que Giorgio Vasari tenait pour mineur. 
+
+n 142
+d 240208
+c CULTURE
+t Vols en Suisse : deux tableaux retrouvés, le mystère reste entier
+Le Monet et le Gauguin appartiennent à la Fondation BŸhrle. 
+
+n 143
+d 240208
+c CULTURE
+t Kitsou Dubois veut mettre le corps en apesanteur
+Avec "L'Espace d'un instant", la chorégraphe invente une gestuelle
+rêvée, entre maîtrise et méditation. 
+
+n 144
+d 240208
+c CULTURE
+t Philippe Manoury dans les pas de Karlheinz Stockhausen
+Au Théâtre des Bouffes du Nord, le compositeur français a
+dédié sa nouvelle oeuvre à son "héros" de jeunesse. 
+
+n 145
+d 240208
+c CULTURE
+t Claire Diterzi explore le son de la peinture
+A contre-courant de l'école française du chuchotement, la
+chanteuse sera au Théâtre de Chaillot du 21 au 24 février. 
+
+n 146
+d 240208
+c CULTURE
+t Beau duo d'acteurs pour une pièce à ficelles
+"Réception", au Théâtre des Mathurins. 
+
+n 147
+d 010308
+c CULTURE
+t Ariane Mnouchkine : "Aux citoyens de nous dire si nous sommes un 
+luxe" Plus d'un millier de professionnels de la culture se sont 
+rassemblés, vendredi, place du Palais-Royal à Paris, pour protester 
+notamment contre la baisse des subventions.
+
+n 148
+d 010308
+c CULTURE
+t Grandeur et modestie de l'architecture fluviale Ponts, passerelles et 
+cabines de pêcheurs au Palais de Chaillot, à Paris.
+
+n 149
+d 010308
+c CULTURE
+t Preljocaj-Stockhausen, une beauté univoque "Eldorado" s'impose au 
+Théâtre de la Ville.
+
+n 150
+d 010308
+c CULTURE
+t Le monde éphémère de Scoli Acosta Pour sa première exposition dans 
+une galerie parisienne, il met en scène un micromonde où tout se 
+recycle, pris dans une grande boucle où souffle une douce énergie.
+
+n 151
+d 010308
+c CULTURE
+t Le vieux maître et la jeune disciple Eddy Mitchell et Cécile de France se 
+donnent la réplique au Théâtre de la Madeleine.
+
+n 152
+d 010308
+c CULTURE
+t Jean-Michel Ribes et Roland Topor, petites "Batailles" entre amis Le 
+directeur du Théâtre du Rond-Point reprend ces pièces écrites à quatre 
+mains et évoque la mémoire du touche-à-tout mort en 1997.
+
+n 153
+d 010308
+c CULTURE
+t Mercury et Columbia solidaires dans la vertu Un vent de douceur 
+soufflerait-il dans le milieu du disque ?
+
+n 154
+d 010308
+c CULTURE
+t Tom Krens abandonne la direction de la Fondation Guggenheim 
+Changement à la tête de l'institution new-yorkaise.
+
+n 155
+d 010308
+c CULTURE
+t Adel Abdessemed, l'enfant terrible de l'art Il a quitté l'Algérie à 23 ans, 
+après l'assassinat du directeur de l'Ecole des beaux-arts d'Alger. 
+Quatorze ans plus tard, il est l'un des plasticiens les plus cotés de part 
+et d'autre de l'Atlantique.
+
+n 156
+d 010308
+c CULTURE
+t Les artistes affichent leur refus de la politique culturelle du 
+gouvernement Plus d'un millier de professionnels de la culture se sont 
+réunis, vendredi place du Palais-Royal à Paris, pour protester contre la 
+politique culturelle du gouvernement.
+
+n 157
+d 010308
+c CULTURE
+t Un "Wozzeck" à la simplicité rafraîchissante Au Théâtre de la Monnaie à 
+Bruxelles.
+
+n 158
+d 010308
+c CULTURE
+t Danse et gamelan sur l'île du "Karajan de Bali" La troupe dirigée par 
+Nyoman Jaya présente en France un spectacle consacré aux années 
+1920, époque phare de la création balinaise.
+
+n 159
+d 010308
+c CULTURE
+t Arras crée le tourisme de mémoire sous terre Samedi 1er mars, le 
+public pourra découvrir les carrières de Wellington, un nouveau 
+mémorial, mais le seul enfoui, sous le quartier Ronville.
+
+n 160
+d 010308
+c CULTURE
+t "Le Soldat rose" se lance à l'assaut de la comédie musicale Une 
+adaptation du conte de Louis Chedid et Pierre-Dominique Burgaud.
+
+n 161
+d 010308
+c CULTURE
+t Nicolas Canteloup, presque méchant Ancien animateur au Club Med, 
+l'humoriste se frotte tous les jours à l'actualité en pastichant les 
+politiques. Féroce, tout en renvoyant l'image de quelqu'un de gentil, il 
+fait l'unanimité et remplit les salles.
+
+n 162
+d 010308
+c CULTURE
+t La famille du théâtre réunie à l'Odéon Christine Albanel a assuré qu'il 
+n'y aurait "aucun désengagement" de l'Etat.
+
+n 163
+d 010308
+c CULTURE
+t DJ Dolores, un Brésilien qui fait danser en invoquant Sartre Le musicien 
+nordestin, qui fait une tournée européenne, s'est arrêté au New Morning 
+à Paris.
+
+n 164
+d 010308
+c CULTURE
+t MGMT, la "priorité" électro-rock Premier concert parisien du groupe 
+new-yorkais porté par la rumeur.
+
+n 165
+d 010308
+c CULTURE
+t Duchamp, Man Ray, Picabia, trio dandy A Londres, la Tate Modern réunit 
+380 pièces de ces maîtres de l'absurde, plus de 90 ans après leur 
+première réunion.
+
+n 166
+d 010308
+c CULTURE
+t A Lyon, le gel des crédits épargne les "gros" La baisse du budget de la 
+culture fragilise les petites scènes et les compagnies.
+
+n 167
+d 010308
+c CULTURE
+t A Madrid, la culture s'installe aux abattoirs Abandonnés depuis 1996, 
+les anciens abattoirs municipaux de Madrid, le Matadero, font partie 
+d'un programme de réhabilitation du patrimoine historique de la 
+capitale espagnole.
+
+n 168
+d 010308
+c CULTURE
+t Doutes en Belgique sur la véracité du récit de "Survivre avec les loups" 
+Des historiens juifs, des spécialistes des loups et des journalistes 
+remettent en cause l'histoire de Misha Defonseca.
+
+n 169
+d 010308
+c CULTURE
+t Un frisson philharmonique à Pyongyang Il n'y a jamais eu autant 
+d'Américains à Pyongyang depuis l'occupation de la ville en 1950, au 
+début de la guerre de Corée. Le New York Philharmonic y a interprété 
+Gershwin et Dvorak.
+
+n 170
+d 200308
+c CULTURE
+t Moins de visiteurs au Salon du livre de Paris
+La littérature israélienne a pourtant suscité un vif
+intérêt au Salon du livre. 
+
+n 171
+d 200308
+c CULTURE
+t Les Rita Mitsouko avec Catherine, sans Fred
+Les Rita Mitsouko commencent une longue tournée française et
+européenne qu'ils dédient au compositeur disparu. 
+
+n 172
+d 200308
+c CULTURE
+t Christa Ludwig, l'aura d'une voix
+A la scène, elle fut une interprète adulée de Mozart,
+Schubert, Schumann, Brahms, Mahler, Strauss... Pour fêter les 80 ans de
+la mezzo-soprano, EMI lui rend hommage en rééditant quelques-uns
+de ses grands enregistrements. 
+
+n 173
+d 200308
+c CULTURE
+t Danse : Robyn Orlin fête les "swankas"
+La chorégraphe sud-africaine rend hommage aux "sapeurs" zoulous. 
+
+n 174
+d 200308
+c CULTURE
+t "Ice" croise la danse, le théâtre et le concert
+Le chorégraphe François Verret ressuscite un récit d'Anna Kavan. 
+
+n 175
+d 200308
+c CULTURE
+t Spectacle : le voyage fantasmagorique du Cirque des mirages
+Son nouveau spectacle, "Dans les arcanes du temps", est à
+L'Européen, à Paris. 
+
+n 176
+d 200308
+c CULTURE
+t Exposition : sculpteurs africains, commanditaires européens
+Des ivoires métis sont présentés Quai Branly. 
+
+n 177
+d 200308
+c CULTURE
+t Exposition : les dessins maniéristes de l'atroce Bandinelli
+Le Louvre consacre une exposition à cet artiste du XVIe siècle
+tant décrié. 
+
+n 178
+d 200308
+c CULTURE
+t La caisse des congés spectacles en sursis
+La Cour des comptes demande sa suppression. 
+
+n 179
+d 200308
+c CULTURE
+t La "déception" d'Olivier Poivre d'Arvor
+Le directeur de Culturesfrance, l'agence française d'échanges
+culturels internationaux, n'a pas apprécié du tout la nomination
+de Georges-Marc Benamou à la tête de la Villa Médicis. 
+
+n 180
+d 200308
+c CULTURE
+t Magritte trouve à se loger, place Royale, à Bruxelles
+Après un important accord de mécénat avec le groupe Suez. 
+
+n 181
+d 200308
+c CULTURE
+t The Blakes, pur concentré de garage rock
+Lisez l'intégralité de l'article pour plus d'information. 
+
+n 182
+d 200308
+c CULTURE
+t Le réalisateur britannique Anthony Minghella est mort
+Outre le "Patient anglais" (1996) avec Juliette Binoche, Anthony 
+Minghella a
+réalisé d'autres succès mondiaux parmi lesquels "Le
+Talentueux M. Ripley" (2000) ou "Retour à Cold Mountain" (2003). 
+
+n 183
+d 200308
+c CULTURE
+t Sélection CD : McCoy Tyner, un monument
+Le pianiste de jazz en quartette et en public. 
+
+n 184
+d 200308
+c CULTURE
+t "Babylone", une riche exposition au Louvre
+Rassemblant pour la première fois près de 400 oeuvres d'une
+grande diversité, le Musée du Louvre, à Paris,
+présente jusqu'en juin une exposition qui réconcilie l'histoire
+et la légende de Babylone. 
+
+n 185
+d 200308
+c CULTURE
+t Le "Livre de Job" désossé à Bobigny
+Le metteur en scène Jean Lambert-wild et le rappeur Dgiz adaptent un
+texte de la Bible. 
+
+n 186
+d 200308
+c CULTURE
+t Bollywood sur la scène du Châtelet
+"Padmâvatî", opéra-ballet kitsch du compositeur Albert
+Roussel, est monté par un cinéaste indien. 
+
+n 187
+d 200308
+c CULTURE
+t Le TGV aime la musique
+La SNCF invente les concerts dans ses trains pour essayer d'attirer une
+clientèle plus jeune. 
+
+n 188
+d 200308
+c CULTURE
+t Tom Jobim, un des inventeurs de la bossa-nova, inspire les cinéastes
+Deux films pour célébrer le cinquantenaire de cette musique
+née au Brésil. 
+
+n 189
+d 200308
+c CULTURE
+t La Salle Pleyel met en valeur l'oeuvre de Kaija Saariaho
+"Mirage", de la compositrice finlandaise, annonce une programmation 
+"100 %
+Finlande" un peu partout en France 
+
+n 190
+d 200308
+c CULTURE
+t De la Cour à l'échafaud
+Au Grand-Palais, les mutations iconographiques de Marie-Antoinette
+
+n 191
+d 210308
+c CULTURE
+t Musique classique : Martha Argerich, royale et fuyante comme à l'accoutumée
+Les musiciens du Festival de Lugano (Suisse), réunis par la pianiste,
+sont au Théâtre des Champs-Elysées. 
+
+n 192
+d 210308
+c CULTURE
+t L'Europe et la danse à l'honneur au Festival d'Avignon
+La 62e édition du rendez-vous théâtral est prévue du
+4 au 26 juillet. 
+
+n 193
+d 210308
+c CULTURE
+t Jean-Louis Trintignant : "Je n'aime que les beaux textes"
+Le comédien joue au Rond-Point à Paris. Entretien. 
+
+n 194
+d 210308
+c CULTURE
+t L'"effet Villepin" profite à Napoléon
+La vente aux enchères de la bibliothèque impériale de
+l'ancien premier ministre a totalisé 1,2 million d'euros (avec les
+frais), soit plus du double de l'estimation initiale (entre 400 000 et 500 000
+euros). 
+
+n 195
+d 210308
+c CULTURE
+t Dubaï révèle des artistes méconnus du monde occidental
+Des oeuvres d'Inde ou d'Iran voient leur cote s'envoler.
+
+n 196
+d 240308
+c CULTURE
+t Alain Bashung, six ans de réflexion pour un grand disque
+"Bleu Pétrole", magnifique album, fruit d'une longue gestation. 
+
+n 197
+d 240308
+c CULTURE
+t A Paris, la magie architecturale du quartier Masséna
+Dans le 13e arrondissement, un programme ambitieux qui mêle logements,
+bureaux, bâtiments administratifs et universitaires. 
+
+n 198
+d 240308
+c CULTURE
+t Cecilia Bartoli célèbre la Malibran, première "pop star" de l'opéra
+Hommage à l'égérie du romantisme, née le 24 mars 1808. 
+
+n 199
+d 240308
+c CULTURE
+t Mort de l'éditeur belge Raymond Leblanc, créateur du journal "Tintin" et des éditions du Lombard
+Ce passionné de BD est mort vendredi à l'âge de 92 ans. 
+
+n 200
+d 240308
+c CULTURE
+t Galeries : Laurent Grasso joue avec nos paranoïas
+Les oeuvres du jeune artiste sont présentées à Paris et à Reims. 
+
+n 201
+d 140208
+c ECONOMIE
+t Société générale : le collègue courtier de Jérôme Kerviel porte plainte 
+pour "faux et usage de faux"
+L'avocat de Moussa Bakir, le courtier placé sous statut de témoin
+assisté dans l'affaire Kerviel, a annoncé avoir
+déposé plainte contre X pour "faux et usage de faux", vendredi,
+après la publication sur Internet d'extraits de "chats" entre son client
+et Jérôme Kerviel. 
+
+n 202
+d 140208
+c ECONOMIE
+t La France a créé près de 300 000 emplois dans le privé en 2007
+L'industrie a perdu 50 000 emplois tandis que les servies en ont
+créé plus de 282 000. 
+
+n 203
+d 140208
+c ECONOMIE
+t Frédéric Saint-Geours Rangé des voitures
+Etre énarque ne prédisposait pas l'ancien directeur
+général de Peugeot à présider l'UIMM. Son
+passé socialiste non plus. Evincé en douceur de l'industrie
+automobile, il a atterri en milieu hostile. 
+
+n 204
+d 140208
+c ECONOMIE
+t Marseille : fin de conflit difficile chez Carrefour
+De maigres bénéfices pour les salariés. 
+
+n 205
+d 140208
+c ECONOMIE
+t Quatrième semaine de grève à l'Imprimerie nationale à Choisy-le-Roi
+Depuis le 21 janvier, les salariés de l'usine dénoncent les
+conditions dans lesquelles la cession de l'usine, très affaiblie par
+l'ouverture de son marché à la concurrence, est envisagée. 
+
+n 206
+d 140208
+c ECONOMIE
+t MySpace, un chevalier blanc de pacotille pour Yahoo! 
+
+n 207
+d 140208
+c ECONOMIE
+t Les gouvernements à la rescousse des banques
+
+n 208
+d 140208
+c ECONOMIE
+t Arc arrête la fabrication de cristal dans le Pas-de-Calais
+Crainte de délocalisation. 
+
+n 209
+d 140208
+c ECONOMIE
+t En Ile-de-France, la SNCF et la RATP devront respecter trois fois plus 
+de critères de qualité et de régularité qu'avant
+Les deux entreprises devraient toucher 13,3 milliards d'euros. 
+
+n 210
+d 140208
+c ECONOMIE
+t L'aide au développement n'est pas adaptée aux besoins
+Les 22 pays du comité spécialisé de l'OCDE ont
+dépensé 104,4 milliards de dollars en 2006. 
+
+n 211
+d 140208
+c ECONOMIE
+t La Suède conteste le gazoduc russo-allemand de la Baltique
+Celui-ci devrait relier d'ici 2010 la Russie à l'Allemagne et fournir du
+gaz à plusieurs pays européens, dont les Pays-Bas et la Grande
+Bretagne. 
+
+n 212
+d 140208
+c ECONOMIE
+t Le patron de la poste allemande, soupçonné de fraude fiscale, a 
+présenté sa démission
+Klaus Zumwinkel, le PDG de la Deutsche Post, est soupçonné
+d'avoir placé des sommes s'élevant à un million d'euros
+sur un compte au Liechtenstein pour échapper au fisc. 
+
+n 213
+d 140208
+c ECONOMIE
+t La croissance de l'emploi salarié est restée soutenue en 2007
+298 000 postes ont été créés en 2007 dans le
+secteur concurrentiel, contre 230 000 en 2006, portant le nombre de
+salariés dans le secteur privé à plus de 16 millions. 
+
+n 214
+d 140208
+c ECONOMIE
+t Musique : la Commission européenne veut étendre la durée de la 
+protection des interprétations
+Charlie McCreevy, le commissaire en charge du marché intérieur, a
+fait part, jeudi 14 février, de son intention de porter de 50 à
+95 ans la durée des droits protégeant les interprétations
+phonographiques. Ce projet s'aligne sur le régime en vigueur aux
+Etats-Unis depuis 1998. 
+
+n 215
+d 140208
+c ECONOMIE
+t Soldes d'hiver 2008, un cru médiocre à Paris
+Ce bilan "tiède" confirme la déprime des commerçants
+révélée le 7 février dernier dans une enquête
+sur "les soldes d'hiver 2008", réalisée par la chambre de
+commerce et d'industrie de Paris. 
+
+n 216
+d 140208
+c ECONOMIE
+t Le président de la Fed prévoit une période de croissance faible aux 
+Etats-Unis
+Le resserrement du crédit effectué par les banques risque de
+continuer à brider la croissance, a estimé Ben Bernanke. 
+
+n 217
+d 140208
+c ECONOMIE
+t Le suisse Art et Fragrance rachète la cristallerie française Lalique
+La société suisse Art et Fragrance a racheté, jeudi 14
+février, la cristallerie de luxe Lalique au groupe Pochet pour 44
+millions d'euros. Elle prévoit d'y investir 12 millions d'euros d'ici
+à 2012. 
+
+n 218
+d 140208
+c ECONOMIE
+t Les contrôleurs aériens d'Ile-de-France votent la fin de la grève
+En grève depuis lundi, les contrôleurs aériens franciliens
+ont voté à 93 % la fin de la grève, lors d'une
+assemblée générale dans la tour de contrôle de
+l'aéroport d'Orly organisée par la CGT. 
+
+n 219
+d 140208
+c ECONOMIE
+t Danger pour les groupes  automobiles européens 
+
+n 220
+d 140208
+c ECONOMIE
+t Sous la pression, le Royaume-Uni modère son projet de taxer les riches 
+étrangers
+115 000 expatriés "résidents non domiciliés". 
+
+n 221
+d 140208
+c ECONOMIE
+t Les surfaces cultivées en OGM ont augmenté de 12 % en 2007
+Les superficies plantées en cultures transgéniques dans le monde
+ont atteint 114 millions d'hectares en 2007, soit une augmentation de 
+12 % par rapport à 2006. 
+
+n 222
+d 140208
+c ECONOMIE
+t Danone révise à la hausse ses objectifs en 2008 après une très bonne 
+année 2007
+Le groupe alimentaire français a vu son bénéfice net
+augmenter de plus de 300 % en 2007, à 4,18 milliards d'euros,
+grâce aux plus-values réalisées sur la vente des biscuits
+LU à l'américain Kraft. Les perspectives de croissance pour 2008
+sont encourageantes. 
+
+n 223
+d 140208
+c ECONOMIE
+t Carlos Ghosn : "Nous allons devenir le troisième constructeur mondial"
+Le PDG de Renault et de Nissan prévient, dans un entretien au "Monde",
+que l'année 2008 ne s'annonce "pas facile", car "les Etats-Unis sont en
+récession". 
+
+n 224
+d 140208
+c ECONOMIE
+t La croissance française a ralenti à 1,9% en 2007
+L'Insee a publié jeudi les premiers résultats des comptes
+nationaux trimestriels. Le PIB a progressé de 0,3% au 4e trimestre. 
+
+n 225
+d 240208
+c ECONOMIE
+t L'informateur de la police allemande au Liechtenstein identifié par la 
+presse
+L'identité complète de l'informateur, un ancien employé de
+banque de 42 ans chargé de numériser des archives est
+révélée par l'hebdomadaire Der Spiegel à
+paraître lundi. 
+
+n 226
+d 240208
+c ECONOMIE
+t Près de trois ans de prison ferme pour  l'ex-président du CE de 
+Volkswagen
+Jugé dans le cadre de l'affaire de corruption chez Volkswagen,
+l'ex-président du comité d'entreprise (CE) Klaus Volkert a
+été déclaré coupable d'incitation à abus de
+confiance. 
+
+n 227
+d 240208
+c ECONOMIE
+t Cette terre est à nous, foi de paysans
+Des villageois spoliés du Jiangsu ont brisé un tabou de la Chine
+communiste : ils se sont déclarés propriétaires des etrres
+où ils vivent. En théorie, une loi du 1er octobre 2007 leur donne
+raison. 
+
+n 228
+d 240208
+c ECONOMIE
+t L'affaire du Liechtenstein inquiète la Suisse sur ses relations avec l'UE
+Depuis juillet 2005, les banques suisses prélèvent par ailleurs
+un pourcentage - 15 % jusqu'en juillet 2008, 20 % ensuite et 35 % en 2 
+011 - sur les intérêts de l'épargne des personnes
+domiciliées au sein de l'UE. 
+
+n 229
+d 240208
+c ECONOMIE
+t MGA Entertainment "n'est pas en mesure" de reprendre Smoby-
+Majorette
+Le groupe de jouets américain ne pourra pas présenter de plan de
+continuation pour la société Smoby-Majorette à
+défaut d'un accord avec plusieurs banques créancières du
+groupe français. 
+
+n 230
+d 250308
+c ECONOMIE
+t La pénurie de main-d'uvre menace la filière nucléaire
+Alors que les salariés qualifiés partent à la retraite,
+les écoles d'ingénieurs et les universités ont
+réduit les formations dans les années 1980-1990. 
+
+n 231
+d 240208
+c ECONOMIE
+t Microsoft s'ouvre, un peu
+Microsoft vient de décider d'ouvrir partiellement l'accès au code
+de ses principaux programmes. Cela devrait permettre aux 
+développeurs de
+produire des applications indépendantes fonctionnant mieux avec ce 
+que fait Microsoft. 
+
+n 232
+d 240208
+c ECONOMIE
+t Le Liechtenstein, Andorre  et Monaco sur "la liste noire".
+
+n 233
+d 240208
+c ECONOMIE
+t Agrocarburants : les pétroliers pour un objectif plus modeste
+10 % de "pétrole vert" incorporé en 2015. 
+
+n 234
+d 240208
+c ECONOMIE
+t Renault s'associe à Sita pour améliorer le recyclage des voitures
+Chaque année, 1,5 million de véhicules arrivent en fin de vie en
+France. 
+
+n 235
+d 240208
+c ECONOMIE
+t Le marché français des médicaments génériques a augmenté de 20 % en 
+2007. Le marché devrait encore croître au cours des quatres prochaines
+années. 
+
+n 236
+d 240208
+c ECONOMIE
+t Avec les records de l'or, les négociants spécialisés voient revenir les 
+épargnants dans leurs boutiques
+L'once de métal jaune a franchi pour la première fois à
+New York, jeudi 21 février, le seuil des 950 dollars, dopée par
+les craintes liées à l'instabilité des marchés. 
+
+n 237
+d 240208
+c ECONOMIE
+t La Suisse s'inquiète des conséquences que pourrait susciter l'affaire du 
+Liechtenstein sur ses relations avec l'UE
+Depuis juillet 2005, les banques suisses prélèvent par ailleurs
+un pourcentage - 15 % jusqu'en juillet 2008, 20 % ensuite et 35 % en 
+2011 sur les intérêts de l'épargne des personnes
+domiciliées au sein de l'UE. 
+
+n 238
+d 240208
+c ECONOMIE
+t Nicolas Sarkozy annonce la création d'un fonds national de 
+réindustrialisation
+L'industrie française a perdu plus de 470 000 emplois depuis 2002. 
+
+n 239
+d 240208
+c ECONOMIE
+t L'Ukraine s'engage à rembourser rapidement sa dette au russe Gazprom
+Il semble que le contentieux entre Gazprom et l'Ukraine soit
+définitivement enterré. 
+
+n 240
+d 240208
+c ECONOMIE
+t Microsoft change de stratégie et ouvre ses logiciels
+Le numéro un mondial des logiciels a annoncé, jeudi, qu'il va
+donner accès librement et gratuitement à la documentation
+technique associée à la plupart de ses produits phares. 
+
+n 241
+d 250308
+c ECONOMIE
+t Les bonnes performances économiques de Taïwan
+Les perspectives économiques de Taïwan restent bonnes et son
+marché boursier apparaît sous-évalué 
+
+n 242
+d 240208
+c ECONOMIE
+t Le Crédit Suisse  n'a finalement pas été épargné par la crise des 
+subprimes
+Le Crédit Suisse est contraint de déprécier 2,85 milliards
+de dollars (1,9 milliard d'euros) d'actifs dans ses livres. 
+
+n 243
+d 240208
+c ECONOMIE
+t "Nous assistons à une deuxième vague de désindustrialisation depuis 
+2002". Dans un chat sur Le Monde.fr, Elie Cohen, membre du conseil d'analyse
+économique, souligne que 500 000 emplois industriels ont
+été perdus depuis 2002. 
+
+n 244
+d 240208
+c ECONOMIE
+t Le FMI réduit à 1,5 % ses prévisions de croissance pour la France en 
+2008. Le budget 2008 français étant bâti sur une croissance
+comprise entre 2 % et 2,5 %. 
+
+n 245
+d 250308
+c ECONOMIE
+t M. Sapin (PS) juge inéluctable une augmentation des impôts
+Le secrétaire national du PS à l'économie et à la
+fiscalité invite le gouvernement à "ne pas dissimuler les effets
+de la crise financière".
+
+n 246
+d 240208
+c ECONOMIE
+t Les services à la personne décollent depuis 2006, leur 
+professionnalisation reste difficile
+Près d'1,9 million de personnes étaient concernées en
+2007, pour un temps de travail moyen de quinze heures par semaine. 
+Les créations d'emploi ont doublé depuis le plan Borloo. 
+
+n 247
+d 240208
+c ECONOMIE
+t Guillaume Pepy et son sens du dialogue social délogent Anne-Marie 
+Idrac de la tête de la SNCF
+L'ancien directeur de cabinet de Mme Aubry, qui travaille depuis treize 
+ans dans l'entreprise publique, était décidé à partir
+si la succession de Mme Idrac lui échappait. 
+
+n 248
+d 240208
+c ECONOMIE
+t La gauche radicale allemande espère bénéficier du scandale de fraude 
+fiscale. Des élections régionales ont lieu à Hambourg le 24 février. 
+
+n 249
+d 240208
+c ECONOMIE
+t Bilan mitigé du recours aux "heures sup", par Rémi Barroux
+Il est difficile de tirer le bilan précis des effets de la loi du 1er
+août 2007 destinée à augmenter le pouvoir d'achat. 
+
+n 250
+d 010308
+c ECONOMIE
+t Le Pentagone préfère EADS à Boeing pour ravitailler ses avions
+A la surprise générale, le groupe européen, allié
+à Northrop Grumman, a remporté le contrat de 35 milliards de
+dollars pour 179 appareils 
+
+n 251
+d 010308
+c ECONOMIE
+t Le cas Denis Gautier-Sauvagnac embarrasse le Medef et Mme Parisot
+La révélation des indemnités de l'ex-président de
+l'UIMM provoque des réactions d'incompréhension. L'accord a
+été négocié par M. de Virville, proche de Laurence
+Parisot, devenu président de l'Unedic.  
+
+n 252
+d 010308
+c ECONOMIE
+t Indemnité de M. Gautier Sauvagnac : la gauche demande des comptes 
+au patronat
+Le PS demande au gouvernement d'annuler l'indemnité de 1,5 million
+d'euros négociée entre l'organisation patronale et Denis
+Gautier-Sauvagnac. 
+
+n 253
+d 010308
+c ECONOMIE
+t Hausse des prix : François Fillon dénonce de "réels excès"
+Venu soutenir le maire de Blois, le premier ministre a indiqué vendredi
+que l'enquête demandée révélait "des excès"
+dans l'étude publiée par "60 millions de consommateurs", et dans
+les prix de produits de grande consommation. 
+
+n 254
+d 010308
+c ECONOMIE
+t M. Sarkozy envisage de transformer l'épargne salariale en prime 
+annuelle
+Jugeant que les Français épargnent trop, l'Elysée veut
+débloquer ces fonds, peu taxés mais immobilisés cinq ans.
+Mais ils seraient aussi soumis aux cotisations retraite. 
+
+n 255
+d 010308
+c ECONOMIE
+t Le Parlement veut connaître le nom des fraudeurs français
+La commission des finances de l'Assemblée nationale a saisi le ministre
+du budget, Eric Woerth, à propos de l'affaire de fraudes fiscales
+mettant en cause le Liechtenstein. 
+
+n 256
+d 010308
+c ECONOMIE
+t Les grands du bâtiment optimistes pour l'année 2008
+Si l'adage "Quand le bâtiment va tout va" se vérifie, la
+conjoncture ne devrait pas être trop mauvaise en France en 2008. Les
+grands du BTP sont raisonnablement optimistes, après avoir connu des
+années 2006 et 2007 exceptionnelles. 
+
+n 257
+d 010308
+c ECONOMIE
+t Ben Bernanke prend des risques avec l'inflation 
+
+n 258
+d 010308
+c ECONOMIE
+t Les mauvaises nouvelles s'accumulent pour Soitec
+Plongeon du titre en bourse. 
+
+n 259
+d 010308
+c ECONOMIE
+t Bataille à Bruxelles sur la concurrence dans le secteur de l'électricité
+La Commission veut séparer distribution et production. 
+
+n 260
+d 010308
+c ECONOMIE
+t Renault entre au capital du russe AvtoVAZ pour 660 millions d'euros
+Aux termes de l'accord signé vendredi avec le fabricant de la Lada, le
+constructeur français et la société publique russe Russian
+Technologies détiendront 25 % chacun d'AvtoVAZ. 
+
+n 261
+d 010308
+c ECONOMIE
+t Les grands du BTP affichent leur bonne santé
+Après des années 2006 et 2007 exceptionnelles, ils restent
+optimistes pour 2008. 
+
+n 262
+d 010308
+c ECONOMIE
+t Avec le chômage, un indicateur de plus vire au rouge
+Le moral des ménages est au plus bas, à une semaine des
+élections municipales, tandis que le nombre de demandeurs d'emploi 
+en France est reparti à la hausse en janvier. 
+
+n 263
+d 010308
+c ECONOMIE
+t Les bons résultats de Vivendi illustrent sa crédibilité retrouvée
+Le groupe français de médias et de
+télécommunications a profité du succès de son jeu
+en ligne "World of Warcraft". Point noir, le recul du résultat
+opérationnel de SFR. 
+
+n 264
+d 010308
+c ECONOMIE
+t Les automobiles chinoises arrivent
+Les autorités françaises et européennes ont accordé
+à des constructeurs chinois le droit de commercialiser certaines autos.
+Des véhicules moins chers dont les normes de sécurité font polémique. 
+
+n 265
+d 010308
+c ECONOMIE
+t UIMM : révélations sur les indemnités de départ de Denis Gautier-
+Sauvagnac
+L'hebdomadaire "Marianne" a révélé le versement d'1,5
+million d'euros à M. Gautier-Sauvagnac. L'UIMM s'est aussi
+engagée à prendre en charge toutes les condamnations
+éventuelles qui viseraient son ancien dirigeant dans le cadre de la
+procédure en cours. 
+
+n 266
+d 010308
+c ECONOMIE
+t Un "trader" de MF Global fait perdre 93,5 millions d'euros à son 
+employeur
+L'employé de la filiale américaine du groupe a aussitôt
+été licencié. 
+
+n 267
+d 010308
+c ECONOMIE
+t Trois mille milliards de dollars, le coût de la guerre en Irak selon Joseph 
+Stiglitz
+Joseph Stiglitz et Linda Bilmes estiment que la guerre en Irak et en
+Afghanistan a déjà coûté 3000 milliards de dollars
+aux Etats-Unis. Pour les auteurs, la guerre et la situation économique
+des Etats-Unis ne sont pas deux sujets distincts, mais un seul et même
+sujet. 
+
+n 268
+d 010308
+c ECONOMIE
+t Bruxelles inflige une nouvelle amende record à Microsoft
+La Commission a fixé à 899 millions d'euros l'astreinte du leader
+mondial des logiciels pour le non-respect de ses engagements après sa
+condamnation en 2004. 
+
+n 269
+d 010308
+c ECONOMIE
+t L'euro s'envole face à un dollar affaibli par les déboires de l'économie 
+américaine
+La devise européenne au-dessus de 1,51 dollar. 
+
+n 270
+d 010308
+c ECONOMIE
+t En Allemagne, le scandale fiscal ne livre pas le casting attendu
+"Bien sûr, il s'agit de gens aisés qui disposent d'un certain
+patrimoine", explique Eduard GŸroff, procureur au parquet financier de
+Bochum. "Mais il n'y a aucune personnalité issue du show-biz ou de
+sportifs connus". 
+
+n 271
+d 010308
+c ECONOMIE
+t Les laboratoires Ipsen et Servier  se sont adaptés au durcissement 
+tarifaire
+Les "poids moyens" résistent mieux que les grands groupes.
+
+n 272
+d 200308
+c ECONOMIE
+t 160 députés UMP pour nettoyer le rapport Attali
+Christian Jacob coordonnera les groupes de travail. 
+
+n 273
+d 200308
+c ECONOMIE
+t Boeing confirme un troisième retard pour son 787 Dreamliner
+Le constructeur américain a confirmé que son nouveau
+biréacteur ne sera finalement livré au plus tôt que vers la
+fin du 3e trimestre 2009, soit six mois après la date prévue. 
+
+n 274
+d 200308
+c ECONOMIE
+t Le consommateur français profite très peu de la baisse du dollar face à 
+l'euro
+De nombreux facteurs expliquent des prix bien plus élevés dans
+l'Hexagone qu'aux Etats-Unis. L'un des principaux facteurs est la
+fiscalité. 
+
+n 275
+d 200308
+c ECONOMIE
+t Est-il encore temps d'éviter la dépression mondiale ?
+Pour comprendre les mécanismes à l'oeuvre dans la crise
+financière actuelle, il faut connaître le phénomène
+de "titrisation". Tout a commencé quand les banques américaines
+ont transformé les crédits immobiliers à risques en
+produits financiers. Voici comment les dérives d'une technique
+sophistiquée ont perturbé le système bancaire, les
+marchés et menacent toute l'économie. 
+
+n 276
+d 200308
+c ECONOMIE
+t Bercy va réviser à la baisse les prévisions de croissance pour 2008
+La ministre de l'économie, Christine Lagarde, annonce une
+révision "en légère baisse", sans donner de chiffre
+précis. L'Etat a bâti son projet de budget 2008 avec une
+croissance comprise entre 2 % et 2,5 %. 
+
+n 277
+d 200308
+c ECONOMIE
+t L'UIMM promet d'assainir sa gestion financière et de revoir ses règles 
+de gouvernance
+Près de 300 membres de l'Union des industries et métiers de la
+métallurgie ont assisté, mercredi, à la convention de la
+fédération de la métallurgie, qui concluait trois mois de
+travaux en province et à Paris. 
+
+n 278
+d 200308
+c ECONOMIE
+t Les immigrés ne menacent pas l'emploi, par Annie Kahn
+En Allemagne, cette population a toutefois déstabilisé le
+marché du travail de ceux qui les avaient précédés. 
+
+n 279
+d 200308
+c ECONOMIE
+t La réforme du Livret A inquiète les acteurs du logement social
+Bercy prépare la généralisation à toutes les
+banques de ce produit très populaire 
+
+n 280
+d 200308
+c ECONOMIE
+t Avec la crise financière, l'Allemagne ouvre le débat sur le rôle de l'Etat
+La presse plaide pour l'intervention des Etats afin d'éviter un
+effrondrement de l'économie mondiale. La majorité des
+économistes s'y oppose. 
+
+n 281
+d 200308
+c ECONOMIE
+t Tout en avouant sa crainte d'une récession, la Fed a rassuré Wall Street
+La Réserve fédérale américaine a abaissé de
+trois quarts de point ses taux directeurs, mardi 18 mars 
+
+n 282
+d 200308
+c ECONOMIE
+t Les opérateurs de télécommunications se lancent dans le jeu vidéo
+Neuf Cegetel devait lancer, mercredi 19 mars, "Exalight", un jeu en ligne 
+dit "massivement multijoueurs", coproduit avec un studio français
+indépendant 
+
+n 283
+d 200308
+c ECONOMIE
+t L'UMP Frédéric Lefebvre défend une "prime de résultat" pour les salariés
+Le secrétaire national de l'UMP à l'économie propose plus
+de transparence dans la rémunération des dirigeants d'entreprise,
+des responsables syndicaux et patronaux 
+
+n 284
+d 200308
+c ECONOMIE
+t Mme Parisot profite de la crise avec l'UIMM pour accélérer la réforme du 
+Medef
+La présidente du Medef tente de normaliser ses relations avec la
+métallurgie et dans le même temps de réduire le poids
+financier et l'influence des structures intermédiaires, pour renforcer
+celui de la direction nationale. 
+
+n 285
+d 200308
+c ECONOMIE
+t BNP Paribas a "cessé d'étudier" le projet de rachat de la Société générale
+BNP Paribas a annoncé, mercredi 19 mars, qu'elle n'envisageait plus de
+racheter la Société générale, alors que cette
+dernière a rappelé sa volonté de rester
+indépendante après l'affaire Kerviel et que la crise
+financière rend tout projet de rachat plus incertain. 
+
+n 286
+d 200308
+c ECONOMIE
+t Reprise d'Alitalia : pour le PDG d'Air France-KLM, "l'accord est menacé"
+L'accord des neuf syndicats de la compagnie italienne est nécessaire
+pour que l'offre de rachat aboutisse. Ils dénoncent des suppressions
+d'emplois plus importantes que prévues. 
+
+n 287
+d 200308
+c ECONOMIE
+t Levée record pour l'introduction en Bourse du titre Visa
+Défiant la crise financière, le géant américain des
+cartes de crédit Visa a annoncé, mardi 18 mars, qu'il allait
+réussir à lever plus de 17 milliards de dollars (10,7 milliards
+d'euros) en entrant en Bourse mercredi, dans la plus grosse 
+introduction jamais effectuée aux Etats-Unis. 
+
+n 288
+d 200308
+c ECONOMIE
+t La Fed baisse fortement ses taux, les Bourses repartent à la hausse
+La Réserve fédérale américaine a abaissé son
+taux directeur de trois quarts de point, mardi soir, le ramenant à 2,25
+%. Une décision saluée par les Bourses américaines, qui
+sont reparties à la hausse.
+
+n 289
+d 200308
+c ECONOMIE
+t Oslo, Copenhague et Londres, villes les plus chères du monde
+Selon une enquête menée par UBS, comparant les niveaux des prix et
+les salaires dans soixante et onze villes du monde, c'est en Suisse, à
+Zurich et Genève, que le pouvoir d'achat des salariés est le plus
+élevé. 
+
+n 290
+d 200308
+c ECONOMIE
+t Daniel Cohen  : "Il faut sauver le système financier malgré lui"
+Professeur d'économie à l'Ecole normale supérieure et
+à Paris-I, et éditorialiste au "Monde", Daniel Cohen estime que
+"le G7 doit s'interroger pour savoir si c'est à la puissance publique de
+recapitaliser les banques et comment". Il avance l'idée de la
+création d'un "fond public de réserve pour se porter au secours
+des établissements en difficulté". 
+
+n 291
+d 200308
+c ECONOMIE
+t UIMM : Laurence Parisot a assigné Daniel Dewavrin au civil pour propos 
+diffamants
+La présidente du Medef a annoncé, mardi matin, avoir
+déposé plainte au pénal pour diffamation contre Denis
+Gautier-Sauvagnac et Daniel Dewavrin, deux anciens patrons de l'UIMM. 
+La plainte n'a jamais été enregistrée, selon le parquet de
+Paris, qui indique que seul M. Dewavrin a été assigné au
+civil. 
+
+n 292
+d 200308
+c ECONOMIE
+t Après cinq semaines de détention, Jérôme Kerviel a quitté la prison de 
+la Santé
+La cour d'appel de Paris a décidé que le placement en
+détention provisoire du trader de la Société
+générale ne se justifiait plus.
+
+n 293
+d 210308
+c ECONOMIE
+t Les patrons du CAC 40 ne ressentent pas de crise
+Les dirigeants des entreprises de l'indice boursier parisien, hormis les
+banques, assurent que le freinage nord-américain, la faiblesse du
+dollar, la flambée du pétrole... n'entraveront pas leur croissance. 
+
+n 294
+d 210308
+c ECONOMIE
+t Des pêcheurs bloquent le port de la Trinité-sur-Mer
+Depuis jeudi midi, une cinquantaine de bateaux bloquent le port du Morbihan
+d'où doivent partir les régates du Spi Ouest-France ce week-end. 
+
+n 295
+d 210308
+c ECONOMIE
+t L'OCDE prédit aux Etats-Unis une croissance zéro au deuxième trimestre
+L'économie des Etats-Unis devrait plus pâtir du ralentissement en
+cours que celle de la zone euro, estime le rapport intérimaire,
+publié le 20 mars, par l'Organisation pour la coopération et le
+développement économique (OCDE). 
+
+n 296
+d 210308
+c ECONOMIE
+t En France, l'inflation devrait rogner le pouvoir d'achat des ménages
+Le produit intérieur brut (PIB) progresserait de 0,4 % au premier
+trimestre et 0,3 % au deuxième, selon l'Insee. L'inflation,
+chiffrée à 3 % en mars, ne baisserait pas au premier semestre, le
+pouvoir d'achat des ménages augmentant d'à peine 0,3 % sur cette
+période. 
+
+n 297
+d 210308
+c ECONOMIE
+t Subprimes, marchés, inflation : retour sur un enchaînement
+La crise des "subprimes" a entraîné une dépréciation
+des institutions financières, qui a elle-même provoqué la
+panique des marchés et la hausse des matières premières. 
+
+n 298
+d 210308
+c ECONOMIE
+t L'UIMM souhaite renégocier les indemnités de départ de Denis Gautier-Sauvagnac
+L'ancien président de l'UIMM, mis en examen dans une affaire de retraits
+suspects, a touché environ 1,5 million d'euros net. 
+
+n 299
+d 210308
+c ECONOMIE
+t Silvio Berlusconi souhaite une solution nationale pour sauver Alitalia
+Le leader de l'opposition italienne de centre droit qualifie l'offre faite par
+Air France d'"inacceptable". 
+
+n 300
+d 210308
+c ECONOMIE
+t L'homme qui a perdu 1 milliard de dollars
+Le milliardaire britannique a perdu entre un quart et un tiers de sa fortune
+après la défaillance de la banque d'affaires américaine
+Bear Stearns, rachetée par JP Morgan Chase. Opposé à
+l'opération, cet autodidacte solitaire va devoir jouer collectif 
+
+n 301
+d 140208
+c POLITIQUE
+t "On ne peut pas entrer au coeur de la Shoah avec des enfants de 10 ans"
+Nicolas Sarkozy a annoncé, mercredi 13 février, qu'il souhaitait
+que "tous les enfants de CM2 se voient confier la mémoire d'un des 11
+000 enfants français victimes de la Shoah". Georges Bensoussan,
+historien et auteur de "Histoire de la Shoah", met en garde contre une
+"dérive vers une religion civile de la Shoah". 
+
+n 302
+d 210308
+c POLITIQUE
+t Pierre Cohen (PS) élu maire de Toulouse
+Il succède au centriste Jean-Luc Moudenc (app-UMP) dans la Ville rose
+dirigée depuis 37 ans par la droite. 
+
+n 303
+d 210308
+c POLITIQUE
+t Jean-Claude Gaudin (UMP) réélu maire de Marseille
+Il a fait le plein des 51 voix de sa majorité, contre 49 voix au
+socialiste Jean-Noël Guérini, son principal adversaire lors du
+scrutin des 9 et 16 mars. 
+
+n 304
+d 140208
+c POLITIQUE
+t La France traverse une période "de confusion", selon Dominique de 
+Villepin
+Avec Ségolène Royal (PS) et François Bayrou (MoDem),
+l'ex-premier ministre UMP a signé "un appel pour une vigilance
+républicaine" rendu public vendredi par l'hebdomadaire "Marianne". 
+
+n 305
+d 140208
+c POLITIQUE
+t Shoah : Simone Veil juge "insoutenable" la proposition de Nicolas 
+Sarkozy
+La proposition du chef de l'Etat d'associer chaque élève de CM2
+à un enfant victime des persécutions nazies est "inimaginable,
+insoutenable, dramatique et surtout, injuste", selon l'ancienne
+déportée. 
+
+n 306
+d 140208
+c POLITIQUE
+t Pour 82 % des Français, Nicolas Sarkozy ne gère pas sa vie privée 
+comme un président
+Dans un sondage OpinionWay sur le mode de présidence de Nicolas Sarkozy, 
+publié vendredi par "Le Figaro", le point sur lequel le chef de l'Etat
+est le plus critiqué est la gestion de sa vie privée. 
+
+n 307
+d 140208
+c POLITIQUE
+t La construction de lieux de culte, un enjeu dans les municipales ?
+Débat en direct avec Stéphanie Le Bars, journaliste au service
+France/Société du "Monde", lundi 18 février 2008 à
+15 h 00 
+
+n 308
+d 140208
+c POLITIQUE
+t Faux électeurs : Jean Tiberi est renvoyé en correctionnelle
+Les juges Baudouin Thouvenot et Jean-Louis Périès ont
+signé, mercredi 13 février, l'ordonnance de renvoi en
+correctionnelle de onze mis en examen, dont l'ancien maire de Paris, 
+Jean Tiberi, et sa femme, Xavière, dans l'enquête sur les faux
+électeurs du Ve arrondissement. 
+
+n 309
+d 140208
+c POLITIQUE
+t Un appel "pour une vigilance républicaine" réunit personnalités de 
+gauche, gaullistes et centristes
+Dix-sept personnalités de gauche, centristes ou d'inspiration gaulliste
+ainsi que l'ancien premier ministre Dominique de Villepin, ont signé
+"l'appel du 14 février pour une vigilance républicaine" rendu
+public vendredi 15 février par l'hebdomadaire Marianne. 
+
+n 310
+d 140208
+c POLITIQUE
+t La droite mise sur l'ouverture pour conserver Toulouse
+Jean-Luc Moudenc, 47 ans, conduit la liste de la majorité sortante. Face
+à lui, le Parti socialiste a investi Pierre Cohen, 57 ans,
+député et maire de Ramonville, une petite commune du sud-est de
+l'agglomération. Réputées sans charisme, les deux
+têtes de liste sont d'abord des hommes de dossier. 
+
+n 311
+d 140208
+c POLITIQUE
+t Enseignants, parents : faut-il, selon vous, associer les enfants à la 
+mémoire de la Shoah ?
+Nicolas Sarkozy souhaite que les élèves de CM2 perpétuent
+la mémoire d'un des 11 000 enfants déportés de France et
+victimes de la Shoah. Donnez votre avis sur cette proposition. 
+
+n 312
+d 140208
+c POLITIQUE
+t M. de Villepin s'étonne, M. Hollande approuve
+Une partie des responsables politiques et le monde enseignant ont 
+accueilli
+fraîchement la décision de Nicolas Sarkozy de confier à
+chaque élève de CM2 la mémoire d'un enfant déporté. 
+
+n 313
+d 250308
+c POLITIQUE
+t Des "vitrines" de l'expérimentation pédagogique rejoignent la grogne des enseignants
+Des enseignants, en principe peu enclins à dramatiser sur la baisse des
+moyens dans l'éducation, s'alarment à leur tour des suppressions
+de postes dans l'enseignement secondaire. 
+
+n 314
+d 140208
+c POLITIQUE
+t Nicolas Sarkozy et Xavier Darcos font bloc pour réformer l'école 
+primaire
+A Périgueux, ville dont le ministre de l'éducation est maire, le
+chef de l'Etat devait évoquer, le 15février, des mesures
+consensuelles. 
+
+n 315
+d 250308
+c POLITIQUE
+t Après sa victoire aux municipales, le PS se penche sur la succession de M. Hollande
+Pour la première fois depuis son triomphe aux municipales, le conseil
+national du Parti socialiste se réunit mardi pour commencer à
+élaborer un calendrier de travail d'ici au congrès du parti,
+début novembre. 
+
+n 316
+d 140208
+c POLITIQUE
+t Strasbourg : un sondage annonce la victoire de la gauche
+Un sondage réalisé par l'institut CSA et publié vendredi
+15 février dans "Le Parisien" annonce qu'à Strasbourg, la liste
+d'union de la gauche conduite par Roland Ries l'emporterait largement 
+aux élections municipales sur le maire sortant UMP, Fabienne Keller. 
+
+n 317
+d 140208
+c POLITIQUE
+t L'UMP suspend Arnaud Teullé, candidat dissident à Neuilly-sur-Seine
+Arnaud Teullé contre le divers droite soutenu par l'UMP, Jean-
+Christophe
+Fromantin, a été suspendu de l'UMP, a annoncé jeudi soir
+le parti. 
+
+n 318
+d 140208
+c POLITIQUE
+t Municipales à Paris : "Y a-t-il un vrai match ?"
+Lors de l'émission le "Téléphone sonne" à Paris en
+partenariat avec "Le Monde", jeudi soir sur France-Inter,Béatrice
+Jérôme, du "Monde", Françoise Degois,de France Inter, et
+Stéphane Zumsteeg d'Ipsos reviennent sur les enjeux de la campagne 
+dans la capitale. 
+
+n 319
+d 140208
+c POLITIQUE
+t Nicolas Sarkozy et sa conception de la religion
+Avec les discours du Latran et de Riyad, le président a levé le
+tabou de la religion, qu'il veut mettre au centre du débat public.
+Est-il croyant ? Quels hommes de religion fréquente-t-il ? Pourquoi
+s'engage-t-il sur un terrain aussi miné ? 
+
+n 320
+d 240208
+c POLITIQUE
+t "Pauvre con va", glisse un Sarkozy vexé à un homme qui le snobe
+En visite samedi au salon de l'agriculture, le président de la
+République n'a pu contenir une insulte face à un homme qui
+refusait de lui serrer la main. 
+
+n 321
+d 240208
+c POLITIQUE
+t Nouveau dévissage de Nicolas Sarkozy dans un sondage du JDD
+62 % des Français se déclarent "plutôt mécontents"
+ou "très mécontents" de l'action du chef de l'Etat. 
+
+n 322
+d 240208
+c POLITIQUE
+t Rétention de sûreté : levée de boucliers contre l'initiative Nicolas 
+Sarkozy Après l'invalidation partielle de la loi par le 
+Conseil constitutionnel,
+le président a demandé l'aide de la Cour de cassation. Syndicats
+de magistrats et opposition dénoncent un "coup de force". 
+
+n 323
+d 240208
+c POLITIQUE
+t Désorganisé et endetté, le FN assurera une présence réduite aux 
+prochains scrutins
+Aux municipales, le parti de Jean-Marie Le Pen ne présente des listes
+que dans 85 villes de plus de 10 000 habitants. 
+
+n 324
+d 240208
+c POLITIQUE
+t Robert Badinter : "Nous sommes dans une période sombre pour notre 
+justice"
+Le sénateur PS revient sur la loi sur la rétention de
+sûreté, validée jeudi. Nicolas Sarkozy a quant à lui
+une nouvelle fois justifié cette loi, évoquant la
+nécessité de "ne pas laisser des "monstres en liberté". 
+
+n 325
+d 240208
+c POLITIQUE
+t Les municipales, un tremplin pour les people
+A Nice, la comédienne Sophie Duez apparaît en quatrième
+position sur la liste socialiste alors qu'à Aix-en-Provence l'actrice
+Andréa Ferréol, l'héroïne de La Grande Bouffe (1973),
+occupe la deuxième place sur la liste MoDem. 
+
+n 326
+d 240208
+c POLITIQUE
+t Trois jeunes maires de moins de 30 ans prennent la relève
+Le premier se partage entre sa ferme et la mairie, la deuxième a
+"adoré les mariages" mais ne rempile pas. Le dernier se consacre
+pleinement à sa ville. 
+
+n 327
+d 240208
+c POLITIQUE
+t Gaston Viens, 83 ans, envisage "avec fraîcheur" un huitième mandat à 
+Orly
+Gaston Viens, ex-communiste en délicatesse avec le PCF, a
+décidé à la mi-décembre 2007 de repartir à
+la bataille. Orly, cité ouvrière du Val-de-Marne à deux
+encablures de l'aéroport international, c'est "sa" ville. 
+
+n 328
+d 240208
+c POLITIQUE
+t Six bonnes raisons pour ne pas lâcher son fauteuil
+Paul Lombard, 80 ans, Jean-Pierre Fourcade et Jean-Marie Rausch, 78 
+ans... Ils se représentent le 9 mars. 
+
+n 329
+d 210308
+c POLITIQUE
+t Sous les pavés, 2008
+Le 22 mars 1968, l'occupation de Nanterre fut le déclencheur des
+"évènements de Mai". Les radios reviennent sur ce moment
+historique, ses valeurs et ses conséquences dans notre monde
+d'aujourd'hui. 
+
+n 330
+d 240208
+c POLITIQUE
+t Rétention de sûreté : Rachida Dati justifie la démarche de Nicolas 
+Sarkozy
+Nicolas Sarkozy a décidé vendredi de saisir la Cour de cassation
+en réponse à la censure partielle du projet de loi sur la
+rétention de sûreté par le Conseil constitutionnel. 
+
+n 331
+d 240208
+c POLITIQUE
+t Rétention de sûreté : Nicolas Sarkozy appelle la Cour de cassation à la 
+rescousse
+"L'application immédiate de la rétention de sûreté
+aux criminels déjà condamnés (...) reste un objectif
+légitime pour la protection des victimes", a expliqué le
+porte-parole de l'Elysée, David Martinon. 
+
+n 332
+d 210308
+c POLITIQUE
+t La France, ses déséquilibres, par Lionel Jospin
+Economie, institutions, gauche, médias : il est urgent de redonner de
+solides repères aux Français, explique l'ancien premier ministre
+socialiste.
+
+n 333
+d 240208
+c POLITIQUE
+t La gauche et des associations s'opposent à la remise en cause du droit 
+du sol à Mayotte
+Après les propos du ministre de l'outre-mer, Christian Estrosi, sur une
+éventuelle remise en cause du droit du sol à Mayotte, la gauche
+et des associations estiment qu'il s'agit d'une remise en cause des 
+principes républicains. François Bayrou a, lui, reconnu que la situation
+nécessitait de trouver une "autre règle". 
+
+n 334
+d 240208
+c POLITIQUE
+t Dray répond à Lellouche, pourfendeur de méthodes de campagne "qui 
+relèvent de la Stasi"
+Le porte-parole du Parti socialiste a reproché, vendredi, au
+député et candidat UMP de "fabriquer une argumentation
+outrancière dans le secret espoir d'arriver à créer une
+polémique qui détournerait les électeurs des vrais enjeux". 
+
+n 335
+d 240208
+c POLITIQUE
+t Municipales : 82 % des élus et candidats favorables à une redevance 
+incitant au tri des déchets
+Selon une étude OpinionWay pour la société Eco-Emballages,
+publiée jeudi 21 janvier, 40 % des Français estiment que
+l'environnement est un enjeu prioritaire des élections municipales. 
+
+n 336
+d 240208
+c POLITIQUE
+t Quels moyens de lutte contre les sectes ?
+Débat en direct avec Nathalie Luca, chargée de recherche au
+Centre d'études interdisciplinaires des faits religieux à
+l'EHESS, lundi 25 février 2008 à 11 heures. 
+
+n 337
+d 240208
+c POLITIQUE
+t Airy Routier affirme ne pas avoir vu le SMS qu'aurait envoyé M. Sarkozy 
+à Cécilia
+Le journaliste du "Nouvel Observateur" a été entendu comme
+témoin jeudi 21 février par la police judiciaire dans le cadre de
+l'enquête préliminaire ouverte à la suite de la plainte de
+Nicolas Sarkozy. 
+
+n 338
+d 240208
+c POLITIQUE
+t L'enquête des juges dans l'affaire Clearstream isole un peu plus M. de 
+Villepin
+Les juges d'Huy et Pons, qui ne font pas mystère de leur volonté
+de renvoyer l'ancien premier ministre de Jacques Chirac en 
+correctionnelle, ont quasiment bouclé leur instruction  
+
+n 339
+d 240208
+c POLITIQUE
+t Une nouvelle réforme pour ouvrir davantage l'Ecole nationale de la 
+magistrature à la société
+Sont notamment prévus des tests psychologiques à l'entrée
+et l'ouverture du jury à des personnalités extérieures.
+
+n 340
+d 010308
+c POLITIQUE
+t Viennoiseries et café, "speed dating" : comment les candidats draguent 
+l'électeur
+Mode de communication inconnu il y a sept ans, le "chat" sur Internet 
+est devenu un incontournable. 
+
+n 341
+d 010308
+c POLITIQUE
+t Quartier "durable" et énergie propre à Narbonne
+En l'espace de quelques années, Michel Moynier, maire (div. droite) de
+Narbonne (Aude), s'est posé en défenseur acharné de l'énergie propre. 
+
+n 342
+d 010308
+c POLITIQUE
+t "What does : "casse-toi pauvre con" mean in english ?"
+Les internautes du monde entier ont exprimé leur perplexité pour
+traduire la réplique présidentielle. 
+
+n 343
+d 010308
+c POLITIQUE
+t Dérapage, ratage et rattrapage de M. Sarkozy
+Il y a la phrase que le président a dite et qu'il n'aurait pas fallu
+entendre, et celle qu'il n'a pas dite et qu'il aurait fallu entendre 
+
+n 344
+d 250308
+c POLITIQUE
+t Perpignan : des élections à la chaussette
+A Perpignan, le deuxième tour des élections municipales, a
+été entaché de soupçons de fraude. L'opposition
+gronde et dénonce le "clientélisme" de la famille Alduy, au
+pouvoir depuis un demi-siècle.. 
+
+n 345
+d 250308
+c POLITIQUE
+t Michel Charasse accusé de "coup fourré"
+Le conseil national du Parti socialiste devrait se pencher sur la demande
+d'exclusion déposée à l'encontre de Jean-Yves Gouttebel
+(PS), réélu à la présidence du conseil
+général du Puy-de-Dôme, et du sénateur et ancien
+ministre Michel Charasse. 
+
+n 346
+d 010308
+c POLITIQUE
+t M. de Villepin mis en cause par un rapport de police
+Concerant le dossier Clearstream, la police judiciaire considère que
+Dominique de Villepin a poursuivi "un but à court terme : empêcher
+Nicolas Sarkozy d'accéder à la présidence de l'UMP. 
+
+n 347
+d 010308
+c POLITIQUE
+t L'environnement, nouvelle coqueluche des maires
+Pour la première fois, l'écologie est un thème central
+dans la campagne. Certaines villes ont pris les devants 
+
+n 348
+d 010308
+c POLITIQUE
+t Ariane Mnouchkine : "Aux citoyens de nous dire si nous sommes un 
+luxe"
+Plus d'un millier de professionnels de la culture se sont rassemblés,
+vendredi, place du Palais-Royal à Paris, pour protester notamment 
+contre la baisse des subventions. 
+
+n 349
+d 010308
+c POLITIQUE
+t Relaxe pour une jeune femme qui avait tenté d'empêcher une expulsion 
+sur un vol Paris-Bamako
+La jeune Française était accusée d'"entrave à la
+circulation d'un aéronef" pour avoir protesté contre l'expulsion
+d'un sans-papiers. 
+
+n 350
+d 010308
+c POLITIQUE
+t Les artistes affichent leur refus de la politique culturelle du 
+gouvernement
+Plus d'un millier de professionnels de la culture se sont réunis,
+vendredi place du Palais-Royal à Paris, pour protester contre la
+politique culturelle du gouvernement. 
+
+n 351
+d 010308
+c POLITIQUE
+t Pour l'opposition, l'indemnité de l'ex-président de l'UIMM sert à acheter 
+son silence
+Le PS demande au gouvernement d'annuler l'indemnité de 1,5 million
+d'euros négociée entre l'organisation patronale et Denis
+Gautier-Sauvagnac. Les Verts demande à l'ancien dirigeant de "rendre
+l'argent". Le PCF dénonce "quelque chose de pourri dans le royaume du
+Medef". 
+
+n 352
+d 250308
+c POLITIQUE
+t Enfances et blessures des politiques
+Quand il quitta Matignon, en 1976, Jacques Chirac se répandit dans les
+dîners en ville pour assurer que Valéry Giscard d'Estaing suivait,
+depuis son élection, une psychanalyse. 
+
+n 353
+d 010308
+c POLITIQUE
+t Périgueux : Xavier Darcos se démarque de l'UMP
+Les municipales avec France 24  
+
+n 354
+d 010308
+c POLITIQUE
+t L'UMP a-t-elle déjà perdu les municipales ?
+Débat en direct avec Philippe Ridet, journaliste au "Monde", jeudi 6
+mars à 10 h 30. 
+
+n 355
+d 010308
+c POLITIQUE
+t M. Sarkozy promet la fin de la "Françafrique"
+Au Cap, le président français s'engage à renégocier
+les accords de défense avec les Etats africains. 
+
+n 356
+d 010308
+c POLITIQUE
+t Que peut espérer le Parti socialiste des municipales ?
+Débat en direct avec Michel Nobelcourt, éditorialiste au "Monde",
+vendredi 29 février à 10 h 30. 
+
+n 357
+d 010308
+c POLITIQUE
+t Martine Aubry tend la main au MoDem à Lille
+"Si le MoDem souhaite travailler autour de notre projet en l'enrichissant
+éventuellement sans le dénaturer, je suis ouverte à des
+discussions après que la gauche a été réunie", a
+expliqué, vendredi, la maire socialiste sortante, candidate à sa
+succession. 
+
+n 358
+d 010308
+c POLITIQUE
+t Hausse des prix : François Fillon dénonce de "réels excès"
+Venu soutenir le maire de Blois, le premier ministre a indiqué vendredi
+que l'enquête demandée révélait "des excès"
+dans l'étude publiée par "60 millions de consommateurs", et dans
+les prix de produits de grande consommation. 
+
+n 359
+d 010308
+c POLITIQUE
+t Le MoDem peut-il survivre aux municipales ?
+Débat en direct avec Patrick Roger, journaliste au "Monde", vendredi 29
+février 2008 à 14 h 30. 
+
+n 360
+d 010308
+c POLITIQUE
+t La réforme pourrait renforcer les disparités
+Prélevée sur les bénéfices des entreprises et
+immédiatement disponible pour les salariés, la prime annuelle
+d'intéressement qu'envisage le chef de l'Etat risque fort
+d'assécher l'approvisionnement des canaux existants. 
+
+n 361
+d 010308
+c POLITIQUE
+t M. Sarkozy envisage de transformer l'épargne salariale en prime 
+annuelle
+Jugeant que les Français épargnent trop, l'Elysée veut
+débloquer ces fonds, peu taxés mais immobilisés cinq ans.
+Mais ils seraient aussi soumis aux cotisations retraite. 
+
+n 362
+d 010308
+c POLITIQUE
+t A Tourcoing, les équipes municipales ont favorisé le développement du 
+tissu associatif
+Le tissu associatif de la métropole lilloise est extrêmement
+dense. Rien qu'à Tourcoing, il existe près de 1 500 associations,
+dont 800 sont actives.
+
+n 363
+d 200308
+c POLITIQUE
+t M. Darcos : "La question de la suppression de postes d'enseignants en 
+2009 n'est pas tranchée"
+Invité en "chat", le ministre de l'éducation a
+précisé qu'"il n'y a aucun projet de fusion ou de refonte des
+filières du lycée". Il a indiqué que "la réflexion
+sur les filières du lycée aboutira à moyen terme à
+une évolution du baccalauréat". M. Darcos rencontre le socialiste
+Jack Lang jeudi 20 mars, au sujet de l'école primaire. 
+
+n 364
+d 200308
+c POLITIQUE
+t Un contre-sens de Carla Bruni-Sarkozy
+Sur leur blog, Langue sauce piquante, les correcteurs du Monde.fr 
+pointent, dans le point de vue publié par Carla Bruni-Sarkozy, un contre-sens
+portant sur une citation de Beaumarchais. 
+
+n 365
+d 200308
+c POLITIQUE
+t 160 députés UMP pour nettoyer le rapport Attali
+Christian Jacob coordonnera les groupes de travail. 
+
+n 366
+d 200308
+c POLITIQUE
+t Principal bénéficiaire du succès électoral du PS, François Hollande 
+pense déjà à 2012
+Réputé insubmersible et surnommé "Culbuto" à cause
+de sa capacité à traverser les crises, le premier
+secrétaire du PS est, une nouvelle fois, en train de se remettre
+d'aplomb. 
+
+n 367
+d 200308
+c POLITIQUE
+t Chantal Sébire : une mort pour une loi
+Le décès de Chantal Sébire, à qui les juges avaient
+refusé une euthanasie active, suscite une grande vague d'émotion
+et relance le débat autour de la loi Leonetti. 
+
+n 368
+d 200308
+c POLITIQUE
+t Le "troisième tour" des cantonales consacre la victoire de la gauche
+Les 101 conseils généraux se réunissaient, jeudi, pour
+élire leurs présidents. Au moins huit départements
+devaient passer à gauche et des surprises restaient possibles. Les
+Hautes-Alpes ont finalement basculé à droite. 
+
+n 369
+d 200308
+c POLITIQUE
+t Caméras embarquées dans la campagne de Paris
+Retour sur image. Comme l'édition avec les "fast books", la
+télévision diffuse, dès après les élections,
+deux films sur la campagne parisienne du PS et de l'UMP. Drôles ou
+désabusés, tels apparaissent les acteurs. 
+
+n 370
+d 200308
+c POLITIQUE
+t Pour Laurent Fabius, le PS doit préparer un projet différent de celui de 
+Ségolène Royal
+Laurent Fabius explique dans "Paris-Normandie" que le PS doit mettre 
+au clair sa stratégie. Il se prononce en faveur d'un rapprochement avec la
+gauche. Il juge "essentiel" que les banques centrales "assurent la
+solvabilité" du système financier international qui traverse une
+grave crise. 
+
+n 371
+d 200308
+c POLITIQUE
+t Henri Emmanuelli veut lancer un conseil des collectivités territoriales 
+de gauche
+Le député socialiste et président du conseil
+général des Landes a souhaité mercredi la création
+d'une telle "structure de réflexion" pour coordonner les
+décisions et faire front à la politique du gouvernement. 
+
+n 372
+d 200308
+c POLITIQUE
+t Le projet de loi sur la mobilité dans la fonction publique validé sans le 
+soutien des syndicats
+L'instance de concertation paritaire a adopté mardi soir ce projet de
+texte avec les seules voix des représentants de l'administration,
+dénonce la FSU, l'un des six syndicats ayant voté contre. 
+
+n 373
+d 200308
+c POLITIQUE
+t Réforme des institutions : le gouvernement présente son projet de loi, 
+le PS le rejette
+L'avant-projet de loi constitutionnelle sera soumis jeudi au Conseil 
+d'Etat et "dans les prochaines semaines" au Parlement, indique le porte-parole 
+du gouvernement. Les socialistes préviennent qu'ils ne voteront "pas en
+l'état" ce texte. 
+
+n 374
+d 200308
+c POLITIQUE
+t M. Devedjian devrait rester à la tête des Hauts-de-Seine
+Malgré les critiques pour son "exercice autoritaire du pouvoir", il
+devrait être réélu le 20 mars. 
+
+n 375
+d 200308
+c POLITIQUE
+t Matignon confie au député Jean Leonetti une mission sur la loi sur la fin 
+de vie
+Le député-maire d'Antibes a indiqué que François
+Fillon lui avait demandé "d'évaluer la mise en oeuvre
+concrète de la loi et de faire des propositions, pour remédier
+à la méconnaissance ou la mauvaise application des textes et
+éventuellement à l'insuffisance de la législation". 
+
+n 376
+d 200308
+c POLITIQUE
+t Après la défaite, les députés UMP ont "purgé leurs sujets de 
+préoccupation"
+Toutes les conditions ont été réunies pour que les choses
+se passent "convenablement" lors de la réunion du groupe UMP de
+l'Assemblée nationale. 
+
+n 377
+d 200308
+c POLITIQUE
+t "Nous n'avons pas les moyens d'agir sur les franchises médicales"
+Entretien avec Arnaud Montebourg (PS). 
+
+n 378
+d 200308
+c POLITIQUE
+t Collectivités locales : les marges de manoeuvre du "pouvoir" socialiste
+Les collectivités locales qui ont basculé à gauche veulent
+se faire entendre du gouvernement, mais manquent de moyens 
+financiers 
+
+n 379
+d 200308
+c POLITIQUE
+t Régions, départements, communes : les marges de manoeuvre du 
+"pouvoir" socialiste
+Les collectivités locales qui ont basculé à gauche veulent
+se faire entendre du gouvernement, mais manquent de moyens 
+financiers 
+
+n 380
+d 200308
+c POLITIQUE
+t L'UMP Frédéric Lefebvre défend une "prime de résultat" pour les salariés
+Le secrétaire national de l'UMP à l'économie propose plus
+de transparence dans la rémunération des dirigeants d'entreprise,
+des responsables syndicaux et patronaux 
+
+n 381
+d 200308
+c POLITIQUE
+t SMS : M. Sarkozy retire sa plainte
+Dans un courrier adressé mercredi au procureur de Paris, l'avocat de
+Nicolas Sarkozy, Thierry Herzog, a retiré sa plainte contre le
+journaliste Airy Routier. 
+
+n 382
+d 200308
+c POLITIQUE
+t François Fillon, toujours dans le circuit
+Le premier ministre se comporte à Matignon comme au volant d'une 
+formule 1 : dans la course automobile, tout est calcul, contrôle, anticipation.
+Résultat, après avoir été relégué au
+second plan pendant des mois, il est maintenu dans ses fonctions. 
+
+n 383
+d 200308
+c POLITIQUE
+t Nicolas Sarkozy : "Ni ralentissement des réformes, ni plan de rigueur"
+Le chef de l'Etat a fixé mercredi en conseil des ministres les
+priorités du gouvernement. 
+
+n 384
+d 200308
+c POLITIQUE
+t Une "Castafiore" au gouvernement
+Le remaniement ministériel fait entrer au gouvernement des proches de
+Nicolas Sarkozy, à l'image de Nadine Morano. L'UMP est "trop à
+droite" selon Jean-Pierre Raffarin. 
+
+n 385
+d 200308
+c POLITIQUE
+t M. Sarkozy équilibre les ambitions dans l'équipe Fillon
+Christine Lagarde et Jean-Louis Borloo sortent renforcés du 
+remaniement
+tandis que Xavier Bertrand doit ravaler ses ambitions.
+
+n 386
+d 210308
+c POLITIQUE
+t M. Un tandem Mercier-Perben pour le conseil général du Rhône
+Les élections cantonales et municipales à Lyon, favorables
+à la gauche, n'ont rien changé à la physionomie du conseil
+général du Rhône. Michel Mercier a été
+réélu à la présidence et Dominique Perben
+réélu au poste de premier vice-président. 
+
+n 387
+d 210308
+c POLITIQUE
+t L'effort de défense français devrait se maintenir "autour de 2 %" du PIB
+A Cherbourg, Nicolas Sarkozy devrait réaffirmer que la France n'entend
+pas "baisser la garde" s'agissant de son effort de défense. 
+
+n 388
+d 210308
+c POLITIQUE
+t Nicolas Sarkozy recadre la doctrine nucléaire française
+Le chef de l'Etat souhaite lancer diverses initiatives en matière de
+désarmement nucléaire et de lutte contre la prolifération. 
+
+n 389
+d 210308
+c POLITIQUE
+t Patrick Devedjian président... des Haut-de-Seine
+Après l'affaire Martinon à Neuilly lors des municipales, l'UMP
+des Hauts-de-Seine a échappé de justesse, jeudi, à un
+nouveau psychodrame politique, cette fois-ci au conseil général
+à l'occasion de l'élection de son président. 
+
+n 390
+d 210308
+c POLITIQUE
+t Dominique Perben dépose des recours contre les résultats des municipales à Lyon
+Le tribunal administratif de Lyon a indiqué jeudi que l'équipe de
+campagne du candidat UMP, battu dès le premier tour à Lyon, a
+déposé des recours, mais qu'il ne devrait se prononcer
+qu'à l'automne, après l'avis de la Commission nationale des
+comptes de campagne. 
+
+n 391
+d 210308
+c POLITIQUE
+t Isabelle Balkany tient à sa vice-présidence du conseil général des Hauts-de-Seine
+Après s'être brouillée avec Patrick Devedjian,
+président du conseil général tout juste
+réélu, la conseillère générale UMP a
+annoncé qu'elle siégerait avec les non-inscrits avant de se raviser. 
+
+n 392
+d 210308
+c POLITIQUE
+t Défait à Pau, François Bayrou envisage un recours en annulation
+Selon des déclarations publiées jeudi par "La République
+des Pyrénées", le président du MoDem et candidat
+malheureux à Pau envisage de saisir la justice pour annuler le
+résultat des municipales qu'il juge entachées de "manoeuvres". 
+
+n 393
+d 210308
+c POLITIQUE
+t Nommé secrétaire d'Etat, Alain Joyandet est un sarkozyste de la première heure
+A Vesoul, la "surprise", c'est le portefeuille dont Alain Joyandet,
+réélu maire pour la troisième fois le 9 mars, est
+chargé : le secrétariat d'Etat à la coopération et
+à la francophonie. 
+
+n 394
+d 210308
+c POLITIQUE
+t M. Bockel débarqué de la coopération deux mois après avoir dénoncé la "Françafrique"
+Ancien socialiste, le secrétaire d'Etat s'était fait
+connaître par sa dénonciation de la mauvaise gouvernance en
+Afrique. Plusieurs chefs d'Etat avaient protesté auprès de l'Elysée. 
+
+n 395
+d 210308
+c POLITIQUE
+t L'idée d'un Grand Paris relancée par Nicolas Sarkozy
+La création d'un secrétariat d'Etat pourrait
+accélérer la mise en oeuvre de grands travaux dans
+l'agglomération
+
+n 396
+d 240308
+c POLITIQUE
+t Christine Boutin défend le pactole contesté du "1 % logement"
+Les 4 milliards récoltés par an dans le cadre de ce dispositif,
+gérés par les partenaires sociaux, suscitent des convoitises. 
+
+n 397
+d 240308
+c POLITIQUE
+t André Gerin, député-maire de Vénissieux, candidat à la direction du PCF
+Partisan de la ligne othodoxe au sein de son parti, M. Gerin veut "sortir le
+PCF de l'ornière". 
+
+n 398
+d 240308
+c POLITIQUE
+t Le PS veut s'organiser pour tirer profit de sa victoire aux municipales
+Le Parti socialiste envisage de créer un "conseil des territoires"
+chargé de coordonner l'action des collectivités territoriales socialistes. 
+
+n 399
+d 240308
+c POLITIQUE
+t Municipales : des recours en annulation déposés à Perpignan et Corbeil-Essonnes
+La socialiste Jacqueline Amiel-Donat, qui a perdu de 574 voix à
+Perpignan, dénonce des irrégularités et de la propagande
+prohibée. A Corbeil, Bruno Piriou (PC) dit avoir des "attestations et de
+preuves irréfutables" de la mauvaise tenue du scrutin. 
+
+n 400
+d 240308
+c POLITIQUE
+t Nicolas Sarkozy prend l'initiative sur le désarmement
+Dans un discours sur la politique de défense, le président de la
+République a notamment proposé, vendredi 21 mars à
+Cherbourg, l'ouverture immédiate de négociations sur un
+traité d'interdiction des missiles sol-sol de portée courte et
+intermédiaire.
+
+n 401
+d 140208
+c SPORTS
+t La liberté d'expression des athlètes sera encadrée pendant les JO de 
+Pékin
+Le comité olympique britannique qui prévoyait d'interdire les
+commentaires politiques à ses sportifs a dû faire machine
+arrière devant la pression des ONG. 
+
+n 402
+d 140208
+c SPORTS
+t Sébastien Chabal peine à transformer l'essai médiatique du Mondial sur 
+le terrain marketing
+Le joueur n'a plus été sélectionné en équipe
+de France depuis la Coupe du monde. 
+
+n 403
+d 140208
+c SPORTS
+t La justice espagnole rouvre le dossier Puerto
+Le tribunal de l'Audience provinciale de Madrid a ordonné, jeudi 14
+février, de rouvrir le dossier Puerto. Cette enquête de la police
+espagnole avait permis de mettre au jour un vaste réseau de dopage
+sanguin. Le dossier avait été classé sans suite, en mars
+2007. 
+
+n 404
+d 140208
+c SPORTS
+t Coupe de l'UEFA : l'OM victorieux, les Girondins défaits
+L'OM a remporté son match à domicile sur le score de 3 à
+0. Bordeaux a perdu dans les arrêts de jeu. 
+
+n 405
+d 140208
+c SPORTS
+t Tsonga éliminé dès le premier tour du tournoi de Marseille
+Le jeune espoir français a été battu en deux sets (7-5,
+7-6) par le Croate Mario Ancic. 
+
+n 406
+d 140208
+c SPORTS
+t Dopage : Astana privée de Tour de France
+Principale victime de cette décision, l'Espagnol Alberto Contador,
+vainqueur du Tour 2007, qui ne pourra pas défendre son titre. 
+
+n 407
+d 140208
+c SPORTS
+t Frédéric Thiriez, l'agent du foot
+Homme de réseaux, le président de la Ligue de football
+professionnel vient de ramasser le jackpot avec la cession des droits de
+diffusion. C'est le côté joueur de ce fils de bonne famille qui
+navigue entre sport, politique et opérette. 
+
+n 408
+d 140208
+c SPORTS
+t Tournoi des six nations : trois changements pour affronter l'Angleterre
+Après les victoires face à l'Ecosse et l'Irlande dans le Tournoi
+des six nations, les sélectionneurs du XV de France continuent de faire
+tourner leur effectif. 
+
+n 409
+d 140208
+c SPORTS
+t Steven Spielberg se retire de l'organisation des JO de Pékin
+Dans un geste embarrassant pour le régime de Pékin, qui doit
+faire face à la multiplication de critiques sur ses atteintes aux droits
+de l'homme, le réalisateur a justifié son désistement par
+l'inaction chinoise sur le dossier du Darfour. 
+
+n 410
+d 140208
+c SPORTS
+t Michel Gomez de retour à la tête de l'équipe de France de basket-ball
+Entraîneur de l'équipe de France de basket-ball entre 1993 et
+1995, Michel Gomez a été de nouveau nommé à la
+tête des Bleus, mardi 12 février, en remplacement de Claude
+Bergeaud. 
+
+n 411
+d 140208
+c SPORTS
+t Le rallye Dakar 2009 se déroulera en Argentine et au Chili
+La plus célèbre épreuve de rallye-raid au monde change de
+continent : elle n'aura plus lieu en Afrique, en raison notamment des 
+menaces d'attentats qui ont plané sur l'organisation de la dernière
+édition. 
+
+n 412
+d 140208
+c SPORTS
+t Le pari planétaire du foot anglais
+La Premier League anglaise a proposé de jouer une dizaine de matches 
+de championnat à partir de janvier 2011 dans cinq villes
+étrangères accueillant chacune deux rencontres. 
+
+n 413
+d 140208
+c SPORTS
+t Voile : la longue route de Dick et Foxall, vainqueurs affamés
+Pour leur dernière nuit en Méditerranée, Jean-Pierre Dick
+et Damian Foxall, l'équipage de Paprec-Virbac II, attendu lundi 11
+février dans la soirée en vainqueur de la première
+édition de la Barcelona World Race (BWR), le tour du monde en double 
+sur
+monocoque de 60 pieds (18,28 m), affrontait encore des vents 
+contraires. 
+
+n 414
+d 140208
+c SPORTS
+t Tennis : la France de Gasquet et Tsonga rencontrera les Etats-Unis
+Les joueurs de Guy Forget ont battu la Roumanie sur ses terres, à Sibiu,
+dimanche 10 février, sur le score de cinq victoires à zéro. 
+
+n 415
+d 140208
+c SPORTS
+t Les entraîneurs du XV de France prônent le droit à l'erreur et la prise de 
+risque
+L'équipe de France de rugby s'est imposée dans la douleur (26-21)
+face à l'Irlande, samedi, pour son deuxième match du Tournoi des
+six nations. 
+
+n 416
+d 140208
+c SPORTS
+t Ligue 1 : en douceur, Bordeaux s'installe en dauphin de Lyon
+Les Girondins comptent quatre points de retard sur l'Olympique lyonnais. 
+
+n 417
+d 140208
+c SPORTS
+t Ligue 1 : les leaders confirment, l'OM s'affirme
+Alors que Lyon, Bordeaux et Nancy l'ont emporté à domicile, l'OM
+est revenu de son déplacement à Nice avec les trois points de la
+victoire (2-0). Marseille pointe à la 5e place du classement, tandis que
+Lens remonte à la 13e grâce à son succès à Caen (4-1). 
+
+n 418
+d 140208
+c SPORTS
+t Manchester United chute, le Bayern plie, le Real plane
+Calcio, Liga, Premier League ou Bundesliga, retrouvez en images le 
+meilleur des grands championnats européens. 
+
+n 419
+d 140208
+c SPORTS
+t CAN 2008 : l'Egypte sur le toit de l'Afrique
+Les Pharaons, tenants du titre, ont remporté leur sixième Coupe
+d'Afrique des Nations après avoir battu le Cameroun (1-0). 
+
+n 420
+d 140208
+c SPORTS
+t Tournoi des 6 Nations : exercice d'autocritique pour Marc Lièvremont
+Aux côtés de ses deux adjoints Emile Ntamack et Didier
+Retière, le sélectionneur du XV de France est revenu sur la
+performance de son équipe contre l'Irlande. Avec un regard pour le 
+moins aiguisé. 
+
+n 421
+d 140208
+c SPORTS
+t La France facile en Coupe Davis, Grange perd le rythme en slalom, 
+Bjoerndalen dans la légende du biathlon
+Retrouvez en images les temps forts du week-end sportif. 
+
+n 422
+d 140208
+c SPORTS
+t Ligue 1 : Lyon, Bordeaux, Nancy, trio gagnant
+Les leaders se sont imposés lors de la 24e journée du championnat
+de France, alors qu'Auxerre a surpris en s'imposant à Rennes. Le PSG et
+Monaco stagnent, Toulouse et St Etienne coulent. 
+
+n 423
+d 140208
+c SPORTS
+t Le Ghana se console avec une troisième place
+Les Black Stars du Ghana ont battu la Côte d'Ivoire grâce à
+une plus grande détermination (4-2), le 9 février à
+Kumasi. Les Ghanéens sauvent l'honneur avec cette troisième
+place, tandis que les Eléphants ivoiriens sortent par la petite porte
+lors de cette CAN 2008. 
+
+n 424
+d 140208
+c SPORTS
+t Tournoi des 6 Nations : la France l'emporte au bout du suspense (26-
+21)
+Le XV de France bat l'Irlande au Stade de France, après une perfomance
+inégale mais pleine de promesses. Virevoltants en première
+période, les Bleus ont ensuite résisté à la pression. 
+
+n 425
+d 240208
+c SPORTS
+t Lyon assure, Nancy se relance
+Le leader s'est imposé contre Metz avec un doublé de Fred alors
+que Nancy a renversé une situation difficile pour battre Lens. 
+
+n 426
+d 240208
+c SPORTS
+t Tournoi des 6 Nations : le XV de France tombe contre l'Angleterre
+Les Bleus n'ont jamais réussi à imposer leur jeu contre un XV de
+la Rose solide, qui s'impose au Stade de France lors de la troisième
+journée du Tournoi 2008 (13-24). 
+
+n 427
+d 240208
+c SPORTS
+t Le XV de France compte sur sa jeune garde pour vaincre la Rose 
+anglaise
+"Crunch" du Tournoi des 6 Nations, France-Angleterre promet une
+véritable opposition de style entre des Bleus rajeunis et un XV de la
+Rose expérimenté. Les Bleus de Marc Lièvremont vont tenter
+de confirmer les promesses de jeu entrevues lors des victoires contre
+l'Ecosse et l'Irlande, avec l'espoir de rester en course pour 
+le Grand Chelem dans le Tournoi 2008. 
+
+n 428
+d 240208
+c SPORTS
+t Nike décroche au prix fort le maillot de l'équipe de France de football
+Le groupe américain, qui a remporté contre Adidas et Airness
+l'appel d'offres des Bleus, versera 320 millions d'euros pour être leur
+équipementier de 2011 à 2018 
+
+n 429
+d 240208
+c SPORTS
+t Un plan contre le harcèlement sexuel dans le sport
+La ministre de la santé, des sports et de la jeunesse, Roselyne
+Bachelot, a dévoilé, vendredi 22 février, un plan de lutte
+contre le harcèlement et les violences sexuelles dans le sport. 
+
+n 430
+d 240208
+c SPORTS
+t Rugby : Danny Cipriani se place pour "l'après-Wilkinson"
+Le jeune demi d'ouverture anglais est remplaçant, samedi 23
+février, face à la France, dans le Tournoi des six nations. 
+
+n 431
+d 240208
+c SPORTS
+t Coupe de l'UEFA : l'OM se qualifie, Bordeaux éliminé
+Le nul concédé à domicile par les Bordelais a
+été insuffisant pour obtenir la qualification pour les
+huitièmes de finale. 
+
+n 432
+d 240208
+c SPORTS
+t Football : Lyon est condamné à un exploit à Old Trafford
+Les Lyonnais ont été tenus en échec sur leur terrain,
+mercredi, par Manchester United (1-1), en match aller des 8es de finale 
+de la Ligue des champions. 
+
+n 433
+d 240208
+c SPORTS
+t Ligue des champions : Lyon laisse échapper la victoire contre 
+Manchester United (1-1)
+Opposé à un Manchester United au meilleur de sa forme, l'OL a
+livré un match sérieux, illuminé par un but de Karim
+Benzema, mais la force offensive des Red Devils a fini par payer, grâce
+à Tevez en fin de match (1-1). Le Milan AC a tenu 
+en échec (0-0), Barcelone a gagné à Glasgow contre le Celtic
+(2-3), et le FC Séville s'est incliné à Istanbul 
+contre le Fenerbahce (3-2). 
+
+n 434
+d 240208
+c SPORTS
+t Ligue des champions : Liverpool et la Roma s'imposent au bout du 
+suspense
+Leaders en Espagne et en Italie, l'Inter Milan et le Real Madrid ont
+chuté contre Liverpool (2-0) et l'AS Roma (2-1) en match aller des
+huitièmes de finale de Ligue des champions. Schalke 04 a battu Porto
+(1-0) et Chelsea a fait match nul contre l'Olympiakos (0-0) à Athènes. 
+
+n 435
+d 240208
+c SPORTS
+t Lièvremont fait confiance aux jeunes pour affronter le XV de la Rose
+Après une série de forfaits pour blessures, les entraîneurs
+ont présenté, mardi 19 février, à Marcoussis, un
+Quinze de France modifié au tiers. 
+
+n 436
+d 240208
+c SPORTS
+t Ligue des champions : l'Olympique lyonnais doit soigner sa défense
+Lyon affronte Manchester mercredi 20 février. 
+
+n 437
+d 240208
+c SPORTS
+t Bernard Laporte veut créer un centre national d'entraînement pour les 
+sports de salle
+Colombes est pressentie pour accueillir ce projet. 
+
+n 438
+d 240208
+c SPORTS
+t Voile : "Groupama-III" chavire  dans sa quête du Trophée Jules-Verne
+Sains et saufs, Franck Cammas, son skipper, et les neuf équipiers ont
+été hélitreuillés du bateau en moins de quatre
+heures par des secours néo-zélandais très performants. 
+
+n 439
+d 240208
+c SPORTS
+t Basket-ball : LeBron James s'impose comme un joueur majeur de la NBA
+Le basketteur de Cleveland a été élu, dimanche, meilleur
+joueur du All Star Game. 
+
+n 440
+d 240208
+c SPORTS
+t Football : l'arbitrage en question après un incident raciste
+Samedi 16 février, à Metz, le capitaine de Valenciennes, Abdeslam
+Ouaddou, a écopé d'un carton jaune pour " comportement antisportif". 
+
+n 441
+d 240208
+c SPORTS
+t Plus rien n'arrête l'OM, victorieux du PSG
+Au terme d'un match intense, Marseille a pris le meilleur sur un PSG 
+solide
+mais peu réaliste (2-1). Jérôme Rothen avait ouvert la
+marque sur un penalty controversé, avant que l'OM ne réagisse par
+Taiwo puis Niang. L'OM grimpe à la 4e place du classement, alors que 
+le PSG reste 16e. 
+
+n 442
+d 240208
+c SPORTS
+t Ligue 1 : Bordeaux écrase Monaco et talonne l'OL, Marseille se 
+rapproche
+Profitant du faux pas de l'OL contre Le Mans, les Girondins de Bordeaux
+reviennent à un point du leader lyonnais grâce à une
+victoire écrasante contre Monaco (0-6). Vainqueur du PSG (2-1), l'OM se
+rapproche. Dans le bas de tableau, Toulouse, Rennes et Sochaux 
+stagnent alors que l'affaire Ouaddou fait oublier la première victoire 
+de Metz à domicile. 
+
+n 443
+d 240208
+c SPORTS
+t Nouvelle affaire de racisme dans le football français
+L'international marocain de Valenciennes, Abdeslam Ouaddou, a porté
+plainte pour racisme contre un spectateur de la rencontre face au FC 
+Metz, samedi. Le club messin a également porté plainte dimanche. 
+
+n 444
+d 010308
+c SPORTS
+t Canal+ veut diffuser en clair "une partie du feuilleton" de la Ligue 1
+Le PDG du groupe Canal+, Bertrand Méheut, s'est engagé vendredi
+29 février à diffuser en clair "une partie du feuilleton" des
+rencontres de la Ligue 1 de football, dont Canal+ a acquis une bonne 
+partie des droits. 
+
+n 445
+d 010308
+c SPORTS
+t En boxe, la reconversion est le combat le plus dur
+Nombre de boxeurs français éprouvent les pires difficultés
+à se reconstruire une vie une fois les gants raccrochés. 
+
+n 446
+d 010308
+c SPORTS
+t Les Autrichiens boudent leur Euro
+Les craintes priment sur l'enthousiasme. 
+
+n 447
+d 010308
+c SPORTS
+t Ces combats entre supporteurs, loin des stades
+La recrudescence des "fights" entre bandes rivales inquiète les
+autorités. 
+
+n 448
+d 010308
+c SPORTS
+t Avant les JO, le plus grand terminal aéroportuaire au monde inauguré à 
+Pékin
+Près de 98 hectares, l'équivalent de 170 stades de football. Pour
+faire face à l'afflux de visiteurs en août pour les Jeux
+olympiques, l'aéroport de Pékin n'a pas fait dans la demi-mesure
+en inaugurant, vendredi, le plus grand terminal au monde. 
+
+n 449
+d 010308
+c SPORTS
+t Steve Mandanda, l'ascenseur de l'OM
+En seulement 22 matches de Ligue 1, le gardien s'est imposé dans les
+buts du club marseillais. 
+
+n 450
+d 010308
+c SPORTS
+t Lens rejoint le PSG en finale de la Coupe de la Ligue
+Au terme d'une rencontre indécise, Lens a rejoint, mercredi 27
+février, le Paris Saint-Germain en finale de la Coupe de la Ligue, en
+s'imposant 5-4 après prolongation. 
+
+n 451
+d 010308
+c SPORTS
+t Affaire Ouaddou : interdiction de stade prolongée par le préfet de 
+Lorraine
+L'auteur des propos, un agent de sécurité de Moselle, ne pourra
+plus se rendre au stade du 22 février au 22 mai. 
+
+n 452
+d 010308
+c SPORTS
+t Le PSG en finale de la Coupe de la Ligue
+Le Paris Saint-Germain s'est qualifié, mardi soir 26 février,
+pour la finale de la Coupe de la Ligue, en battant Auxerre 3-2, en demi-
+finale, au Parc des Princes. 
+
+n 453
+d 010308
+c SPORTS
+t Tiger Woods, seul maître des greens
+Le numéro un mondial américain enchaîne les victoires
+depuis le début de la saison. 
+
+n 454
+d 010308
+c SPORTS
+t A Pékin, les Américains seront privés de poulet chinois
+A l'issue de déroutantes expériences internationales, où,
+par exemple, l'équipe de judo a été frappée par de
+violentes crises de "turista" pendant un déplacement au Brésil,
+la perspective d'un challenge culinaire chinois a poussé l'USOC à
+ne vouloir prendre aucun risque. 
+
+n 455
+d 010308
+c SPORTS
+t Débats sur une combinaison "miracle"
+Les nageurs français attendent de juger sur pièce les
+performances du nouveau produit de l'équipementier Speedo. 
+
+n 456
+d 010308
+c SPORTS
+t La liste qui scandalise l'Autriche
+Des skieurs autrichiens et allemands visés par une dénonciation. 
+
+n 457
+d 010308
+c SPORTS
+t La Ligue prône la sévérité contre le racisme
+Des banderoles insultantes ont été déployées lors
+d'un match de Ligue 2 à Bastia. 
+
+n 458
+d 010308
+c SPORTS
+t A Metz, lanterne rouge de Ligue 1, les joueurs vivent avec la défaite
+Les Messins ont subi leur 18e revers de la saison, samedi 23 février,
+à Lyon. 
+
+n 459
+d 010308
+c SPORTS
+t Tottenham soulève la Coupe de la ligue, le Real chute, l'Inter stagne
+Retrouvez en images les temps forts des principaux championnats européens. 
+
+n 460
+d 010308
+c SPORTS
+t Ligue 1 : Lyon assure contre Metz, Marseille et Bordeaux concèdent le 
+match nul
+L'OM a été tenu en échec à Toulouse (0-0), laissant
+la 4e place au Mans, victorieux à Valenciennes (1-2). Lyon, facile
+contre Metz (2-0), distance Bordeaux, en échec contre Lille (0-0). 
+
+n 461
+d 200308
+c SPORTS
+t Coupe de France : Carquefou réalise le "coup du siècle" en éliminant 
+Marseille (1-0)
+Le club amateur de Carquefou (CFA2) entre dans la légende de la Coupe 
+de France. Après avoir sorti Nancy, les Carquefoliens ont battu l'OM (1-0),
+dans un stade de La Beaujoire en ébullition. Bordeaux, Amiens et Metz
+sont également qualifiés pour les quarts de finale. 
+
+n 462
+d 200308
+c SPORTS
+t Coupe de France : l'OL et le PSG qualifiés pour les quarts de finale
+En huitièmes de finale de la Coupe de France, Lyon et Paris l'ont
+emporté sur le même score (2-1), contre Sochaux et Bastia. Sedan
+et Dijon passent également en quarts de finale. 
+
+n 463
+d 200308
+c SPORTS
+t Franck Ribéry, nouvelle idole du foot allemand
+Depuis son arrivée à Munich, l'attaquant français
+séduit. Rencontre. 
+
+n 464
+d 200308
+c SPORTS
+t Ski de fond : Vincent Vittoz sauve in extremis sa saison
+Le Français a remporté une double victoire à Santa
+Catarina, en Italie. 
+
+n 465
+d 200308
+c SPORTS
+t Lewis Hamilton remporte un Grand Prix d'Australie mouvementé
+Pour sa première course, le Français Sébastien Bourdais
+s'est classé septième, dimanche 16 mars. 
+
+n 466
+d 200308
+c SPORTS
+t Contrôle antidopage indélicat en Belgique
+Le peloton de Paris-Nice a retardé le départ de la
+dernière étape, dimanche 16 mars. Les coureurs voulaient
+témoigner de leur solidarité avec Kevin Van Impe, coureur belge
+de l'équipe Quick Step, soumis deux jours plus tôt à un
+contrôle antidopage inopiné. 
+
+n 467
+d 200308
+c SPORTS
+t Ligue 1 : Lens et Marseille partagent les points après un match 
+incroyable (3-3)
+L'OM, qui menait 2 à 0 à la mi-temps, a égalisé
+dans les dernières minutes pour arracher un match nul contre un RC 
+Lens à réaction (3-3). A l'issue de la 29e journée de L1,
+Marseille reste 4e, Lens 16e du classement. 
+
+n 468
+d 200308
+c SPORTS
+t Ligue 1 : Bordeaux s'accroche derrière l'OL
+Si l'OL continue son survol de la Ligue 1 avec une facile victoire à
+Monaco (3-0), Bordeaux s'est bien repris en battant Strasbourg à
+domicile (3-0), et pointe à 6 longueurs du leader. Dans le bas du
+tableau, le PSG, accroché au Parc des Princes par Valenciennes (1-1),
+est relégable. 
+
+n 469
+d 200308
+c SPORTS
+t Le Pays de Galles au sommet, la Rose et le Coq dépassés
+Du triomphe gallois au retour avorté du French Flair, le Tournoi des six
+nations 2008 a bouleversé la hiérarchie du rugby européen.
+
+n 470
+d 200308
+c SPORTS
+t Ligue 1 : le PSG relégable, Lille remonte
+Accroché par Valenciennes (1-1), Paris est 18e, devancé par
+Sochaux qui a pris un point contre Nancy (1-1). Lille atomise Caen (5-
+0) lors d'une 29e journée marquée par 5 résultats nuls. 
+
+n 471
+d 200308
+c SPORTS
+t Manchester dépasse Arsenal, le Bayern et le Real en panne
+Retrouvez en images le meilleur des principaux championnats 
+européens. 
+
+n 472
+d 200308
+c SPORTS
+t Ligue 1 : Lyon en balade sur le rocher monégasque (3-0)
+Au Stade Louis II, Lyon a facilement disposé d'une très faible
+équipe de Monaco (3-0), grâce à un doublé de Keita
+et un but de Fred en première mi-temps. L'OL compte 9 points d'avance
+sur Bordeaux, qui joue dimanche 16 mars contre Strasbourg. 
+
+n 473
+d 200308
+c SPORTS
+t Bailly qui rit, Grange qui pleure
+Retrouvez en images les temps forts du week-end sportif. 
+
+n 474
+d 200308
+c SPORTS
+t Tournoi des six nations : le XV de France subit la loi du Pays de Galles, 
+qui remporte le Grand Chelem (29-12)
+Au bout d'une finale intense, les Gallois ont pris le meilleur sur de 
+valeureux Français, avec deux essais en fin de match de Shane et Martin Williams
+(29-12). Le Pays de Galles conquiert le 10e Grand Chelem de son 
+histoire, les Bleus finissent deuxièmes du Tournoi 2008. 
+
+n 475
+d 200308
+c SPORTS
+t Tournoi des six nations : l'Angleterre passe le test irlandais (33-10)
+Le XV de la Rose a battu l'Irlande à Twickenham pour prendre la
+troisième place du Tournoi des six nations. 
+
+n 476
+d 200308
+c SPORTS
+t Tournoi des six nations : l'Italie bat l'Ecosse sur le fil (23-20)
+Un drop de Marcato dans les derniers instants a permis au XV d'Italie de
+remporter son premier match dans le Tournoi 2008, contre l'Ecosse 
+(23-20). 
+
+n 477
+d 200308
+c SPORTS
+t Le golf génère 1,5 milliard d'euros de chiffre d'affaires en France
+Une étude évalue l'impact économique de ce sport.
+
+n 478
+d 210308
+c SPORTS
+t Laure Manaudou bat le record d'Europe du 100 mètres dos
+La nageuse française a réalisé, jeudi 20 mars, un temps de
+59 sec 50" en demi-finale de l'épreuve. 
+
+n 479
+d 210308
+c SPORTS
+t Equipe de France de football : quatre nouveaux et toujours pas Trezeguet
+Le sélectionneur des Bleus, Raymond Domenech, a dévoilé,
+jeudi 20 mars, la liste des 39 joueurs appelés pour disputer les matches
+contre l'Angleterre, le 25 mars, et le Mali, le 26 mars. 
+
+n 480
+d 210308
+c SPORTS
+t La reconversion des footballeurs professionnels se diversifie
+Une structure a été mise en place pour accompagner les joueurs.
+Le milieu de l'OM Karim Ziani mis à pied après une "altercation" avec son entraîneur
+"Il n'y a eu ni coup, ni insulte", a assuré le directeur sportif de
+l'OM, José Anigo. 
+
+n 481
+d 220308
+c SPORTS
+t Alain Bernard, nouveau recordman du monde du 100 mètres nage libre
+Le nageur français a réalisé un temps de 47 s 60 en
+demi-finale des championnats d'Europe à Eindhoven, aux Pays-Bas,
+améliorant de 24 centièmes le précédent record établi en 2000. 
+
+n 482
+d 220308
+c SPORTS
+t Juan Bautista : un Arlésien très attendu
+Le torero aborde, après ses succès en 2007, une saison
+très attendue au cours de laquelle il veut confirmer son retour
+auprès des plus grands. Premier rendez-vous : la Feria d'Arles. 
+
+n 483
+d 220308
+c SPORTS
+t Voile : Marc Pajot revient à la Coupe de l'America
+Le navigateur français a lancé, jeudi, son défi Team
+French Spirit pour l'édition 2011. 
+
+n 484
+d 220308
+c SPORTS
+t Natation : la discipline collective réussit à Laure Manaudou
+Entraînée depuis trois mois par Lionel Horter, la nageuse
+enchaîne les performances aux championnats d'Europe d'Eindhoven. 
+
+n 485
+d 220308
+c SPORTS
+t Les athlètes contre le boycottage des Jeux olympiques
+Les sportifs français ne veulent pas rater les Jeux de Pékin mais
+envisagent des actions de soutien au Tibet
+
+n 486
+d 240308
+c SPORTS
+t Football : le ballon rond toulousain, rose pâle
+Européen en début de saison, le TFC est menacé de
+descendre en Ligue 2. 
+
+n 487
+d 240308
+c SPORTS
+t David Trezeguet et Loïc Rémy convoqués en équipe de France pour remplacer Thierry Henry et Karim Benzema
+Les deux joueurs font partie d'un groupe de cinq joueurs appelés au cour
+du week-end pour pallier à "une épidémie de blessures",
+selon le sélectionneur, Raymond Domenech. 
+
+n 488
+d 240308
+c SPORTS
+t Le périple de la flamme olympique vers la Chine débute sur fond de polémique
+Trois militants des droits de l'homme ont brièvement perturbé la
+cérémonie avant d'être interpellés. La flamme olympique doit 
+parcourir les cinq continents et arriver à Pékin le 8 août. 
+
+n 489
+d 240308
+c SPORTS
+t Selon deux sondages, les Français veulent un boycott politique des JO de Pékin
+Les Français sont pour un boycott politique de la
+cérémonie d'ouverture des Jeux olympiques de Pékin, mais
+pas pour le boycott sportif des Jeux, selon deux sondages publiés lundi
+24 mars.
+
+n 490
+d 240308
+c SPORTS
+t Ligue 1 : l'OL fait un grand pas vers le titre en battant le PSG
+En conclusion de la 30e journée de L1, Lyon a vaincu une belle
+équipe du PSG après un match spectaculaire (4-2). Les Lyonnais
+comptent 9 points d'avance sur Bordeaux, alors que Paris reste englué
+dans la zone de relégation. 
+
+n 491
+d 240308
+c SPORTS
+t Manchester et Chelsea en vainqueurs, la Roma et le Barça en embuscade
+En Premier League, les Red Devils, souverains contre Liverpool (3-0), ont pris
+une option sur le titre avec la défaite d'Arsenal contre Chelsea (2-1).
+En Italie, la Juve tombe l'Inter, au bénéfice de la Roma qui
+revient dans la course. Dans la Liga, le Barça profite de la
+défaite à domicile du Real contre Valence pour se rapprocher du
+leader. 
+
+n 492
+d 240308
+c SPORTS
+t Après le 100 mètres, Alain Bernard s'adjuge le record du monde du 50 mètres nage libre
+Le nageur tricolore a nagé la distance en 21 secondes 50, dimanche
+à Eindhoven. Samedi, il avait battu le record du 100 mètres,
+l'épreuve reine de la natation. 
+
+n 493
+d 240308
+c SPORTS
+t Coupe de France : après Marseille, Carquefou affrontera le PSG
+Le tirage au sort des quarts de finale, effectué dimanche sur le plateau
+de l'émission France 2 Foot, n'a réservé aucun choc au
+sommet. Après Nancy et Marseille, les amateurs de Carquefou vont
+affronter leur troisième club de L1 en quarts de finale de Coupe de
+France en défiant le PSG. . 
+
+n 494
+d 240308
+c SPORTS
+t Formule 1 : Räikkönen remporte le Grand Prix de Malaisie
+Le champion du monde en titre sur Ferrari a devance Robert Kubica (BMW Sauber)
+et son compatriote Heikki Kovalainen (McLaren-Mercedes). 
+
+n 495
+d 240308
+c SPORTS
+t Ligue 1 : Nancy s'échappe, l'OM et Bordeaux s'écroulent
+Nouvelle désillusion pour l'OM qui perd à domicile contre Sochaux
+et réalise une très mauvaise opération au classement
+puisque Nancy a battu Metz. Les Lorrains (3e) comptent 6 points d'avance sur
+les Marseillais, et seulement 2 de retard sur Bordeaux (2e), dominé
+à Valenciennes. 
+
+n 496
+d 240308
+c SPORTS
+t Nouveau record du monde et médaille d'or pour Alain Bernard
+aux championnats d'Europe de natation
+Le nageur français a remporté le 100 m nage libre devant Nystrand
+et Magnini pour s'offrir le titre de champion d'Europe de la discipline, le 22
+mars à Eindhoven. Avec un chrono de 47"50, Alain Bernard a battu le
+record du monde de l'épreuve reine de la natation mondiale, qu'il avait
+lui même établi la veille. 
+
+n 497
+d 240308
+c SPORTS
+t Le DTN de la natation française veut ouvrir la "boite de Pandore" 
+du débat sur les nouvelles combinaisons
+Le milieu de la natation s'interroge sur les effets d'une combinaison qui
+favoriserait la flottabilité, portée notamment par Alain Bernard,
+nouveau recordman du monde du 100 mètres. 
+
+n 498
+d 240308
+c SPORTS
+t Le perchiste Romain Mesnil veut afficher
+son soutien aux droits de l'homme lors des JO de Pékin
+Malgré les réticences du CIO, le vice-champion d'Europe et du
+monde de saut à la perche souhaite que les athlètes puissent
+manifester leur attachement au respect des
+droits de l'homme pendant les JO de Pékin. 
+
+n 499
+d 240308
+c SPORTS
+t L'or pour les patineurs Delobel et Schoenfelder
+Associés depuis 1990, Isabelle Delobel, 29 ans, et Olivier Schoenfelder,
+30 ans, auront dû patienter 18 ans pour décrocher la plus haute
+marche du podium.
+
+n 500
+d 240308
+c SPORTS
+t Alain Bernard repousse les limites de la natation
+Le Français a établi, vendredi 21 mars, le nouveau record du
+monde du 100 m nage libre, en 47 secondes 60..

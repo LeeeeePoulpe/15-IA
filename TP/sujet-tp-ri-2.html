@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr"><head>
+<title>TP2 - Recherche d'Information</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta name="author" content="Christophe Brouard">
+<link rel="stylesheet" type="text/css" media="screen" href="styleSujetTP.css">
+</head>
+<body>
+<p>Université Grenoble Alpes - IUT2 - Département informatique<br>
+Module R5.Real.15 - Algorithmes pour l'IA</p>
+
+<h2>TP Recherche d'Information N°2 - Evaluation du moteur de recherche cr&eacute;&eacute;</h2>
+Quelques rappels sur les mesures d'évaluation peuvent être trouvés
+<a href="https://en.wikipedia.org/wiki/Evaluation_measures_(information_retrieval)">ici</a> et 
+<a href="https://fr.wikipedia.org/wiki/Pr%C3%A9cision_et_rappel">là</a>.
+
+
+<hr>	
+<h3>1. Construction d'un jeu de 5 requêtes "test" </h3>
+<hr> Sur le fichier <tt>depeches-base.txt</tt> utilisé lors du précédent TP, vous allez identifier, pour les 5 requêtes suivantes, les documents pertinents.
+Vous devez donc avoir à la fin de cet exercice la liste des numéros des documents pertinents pour chaque requête.
+	<ul>
+		<li><strong>Q1: </strong>tout ce qui concerne le changement climatique (effet de serre, émission de CO2, réchauffement,..) </li>
+		<li><strong>Q2: </strong>tout ce qui concerne les affaires politiques (malversations, irrégularités lors d'élections,...)</li>
+		<li><strong>Q3: </strong>tout ce qui concerne la protection des espèces animales ou végétales (actions de protection, menaces sur la survie d'espèces,...)</li>
+		<li><strong>Q4: </strong>tout ce qui concerne des résultats de matchs de football (résultats de matchs, victoires, défaites, scores...)</li>
+		<li><strong>Q5: </strong>tout ce qui concerne l'actualité de la peinture (expositions, opérations de mécénat, vols de tableaux,...) </li>
+	</ul>
+<br/>
+<hr>																								 																			  
+<h3>2. Construction d'une courbe rappel-précision</h3>
+<hr>
+En utilisant votre moteur de recherche et en vous appuyant sur les jugements de pertinence réalisés dans l'exercice 1, construisez la courbe rappel précision pour la requête Q3 en supposant que la requête a été formulée de la façon suivante :
+"protection espèces espèce moratoire disparition"
+<br/><br/>
+<hr>	
+<h3>3. Evaluation du résultat pour les 5 requêtes </h3>
+<hr>
+En vous appuyant sur les jugements de pertinence réalisés dans l'exercice 1, calculez  P@5, P@10, R-Précision et précision moyenne pour chaque requête.
+En déduire la MAP.
+Vous supposerez pour chacune des requêtes la formulation suivante :
+	<ul>
+		<li><strong>Q1: </strong>"climat effet serre émission CO2 réchauffement climatique " </li>
+		<li><strong>Q2: </strong>"affaire politique fraude élections recours"</li>
+		<li><strong>Q3: </strong>"protection espèces espèce moratoire disparition"</li>
+		<li><strong>Q4: </strong>"football match buts victoire ligue"</li>
+		<li><strong>Q5: </strong>"peinture exposition tableaux tableau mécénat" </li>
+	</ul>
+<br/>
+<br>
+	
+		
+</body></html>
